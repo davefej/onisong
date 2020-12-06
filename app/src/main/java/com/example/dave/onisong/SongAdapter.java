@@ -84,6 +84,11 @@ public class SongAdapter extends RecyclerView.Adapter<SongAdapter.ViewHolder> {
                 holder.songnumber.setText(sh.getNumber() + "");
                 holder.songtitle.setText(sh.getTitle());
             }
+
+            if (position == TableOfContents.getInstance().size() -1){
+                ViewGroup.LayoutParams params = holder.itemView.getLayoutParams();
+                
+            }
         }
 
         // Return the size of your dataset (invoked by the layout manager)

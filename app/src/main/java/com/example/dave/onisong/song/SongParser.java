@@ -7,6 +7,7 @@ import com.example.dave.onisong.R;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -15,15 +16,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SongParser {
-	
+
+	static final String FILENAME = "enekek.txt";
 	
 	public static int parseSongFile(Context ctx){
 
 		int count = 0;
 		try {
-			FileInputStream fin = ctx.openFileInput("enekek.txt");
+			FileInputStream fin = ctx.openFileInput(FILENAME);
 			BufferedReader br = new BufferedReader(new InputStreamReader(fin));
 			count = parse(ctx,br);
+			br.close();
 			return count;
 		} catch (Exception e) {
 			TableOfContents.getInstance().reset();
@@ -40,6 +43,50 @@ public class SongParser {
 			e.printStackTrace();
 		}
 		return -1;
+	}
+
+	public static boolean hasSongFile(Context ctx){
+		try {
+			FileInputStream fin = ctx.openFileInput(SongParser.FILENAME);
+			fin.close();
+			return true;
+		} catch (Exception e) {
+			TableOfContents.getInstance().reset();
+			e.printStackTrace();
+		}
+		return false;
+	}
+
+	public static void moveDefaultSongToStorage(Context ctx) throws IOException {
+		InputStream inStream = ctx.getResources().openRawResource(R.raw.enekek);
+		FileOutputStream outStream = ctx.openFileOutput(FILENAME,Context.MODE_PRIVATE);
+		byte[] buff = new byte[5 * 1024];
+		int len;
+		while ((len = inStream.read(buff)) != -1)
+		{
+			outStream.write(buff, 0, len);
+		}
+		outStream.flush();
+		outStream.close();
+		inStream.close();
+	}
+
+	public static String getSongFile(Context ctx) throws IOException{
+		BufferedReader br;
+		try{
+			FileInputStream fin = ctx.openFileInput("enekek.txt");
+			br = new BufferedReader(new InputStreamReader(fin));
+		}catch(IOException e){
+			InputStream is = ctx.getResources().openRawResource(R.raw.enekek);
+			br = new BufferedReader(new InputStreamReader(is));
+		}
+
+		String line;
+		StringBuilder songs = new StringBuilder();
+		while ((line = br.readLine()) != null) {
+			songs.append(line+"\n");
+		}
+		return songs.toString();
 	}
 
 	private static int parse(Context ctx,BufferedReader br ) throws IOException {

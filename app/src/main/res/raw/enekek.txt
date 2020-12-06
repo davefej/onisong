@@ -111,7 +111,8 @@ A szívem csak téged imád.
 
 Megmentve! Most áldom az Urat
 És éneklek új éneket,
-Mert fénye a lelkemben ragyog, Megújítja életemet.
+Mert fénye a lelkemben ragyog,
+Megújítja életemet.
 Megváltva, megváltva!
 Ó hála néked jó Atyám!
 Kegyelmed oly végtelen gazdag,
@@ -131,30 +132,30 @@ A szívem csak téged imád.
 
 Az Úr Jézusnak tárd ki ma a szívedet,
 Hadd formálja át teljesen az életed.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 Aki üdvöt ád, Aki üdvöt ád.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 és dicsérd a Királyt!
 
 Ő minden foglyot megszabadít, a béna jár.
 A poklos gyógyul, hall a süket, a vak is lát.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 Aki üdvöt ád, Aki üdvöt ád.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 és dicsérd a Királyt!
 
 Ki terhet hord, ki gyászban jár és könnye hull,
 A búját öröm váltja fel és térdre borul.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 Aki üdvöt ád, Aki üdvöt ád.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 és dicsérd a Királyt!
 
 Ó, fogjad kezünk, Jézusunk, és légy velünk,
 Szent békességed töltse be az életünk.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 Aki üdvöt ád, Aki üdvöt ád.
-Várd Őt, várd Őt, várd Őt, várd Őt, 
+Várd Őt, várd Őt, várd Őt, várd Őt,
 és dicsérd a Királyt!
 
 
@@ -205,19 +206,7 @@ Boldog véghetetlen öröm vár odafenn,
 Jézusért én is elnyerhetem!
 
 
-8#Feljött a Nap
-
-Feljött a Nap, keressed hát
-Jézus szavát, akaratát!
-
-Lement a Nap, fogadd el hát
-Minden bűnöd bocsánatát!
-
-Elmúlt a Nap, felejtsd el hát
-Minden baját, jó éjszakát!
-
-
-9#Mindörökké hű az Úr
+8#Mindörökké hű az Úr
 
 Mindörökké hű az Úr, mindörökké hű az Úr,
 indig áldom én az Ő nevét, mindörökké hű az Úr.
@@ -232,14 +221,14 @@ Lelkével betölt az Úr, lelkével betölt az Úr,
 Mindig áldom én az Ő nevét, lelkével betölt az Úr.
 
 
-10#Szívem csendben az Úrra figyel
+9#Szívem csendben az Úrra figyel
 
 Szívem csendben az Úrra figyel, ki segít,
 Szívem csendben az Úrra figyel, ki segít,
 Szívem csendben az Úrra figyel.
 
 
-11#Az Úr a pásztorom
+10#Az Úr a pásztorom
 
 Az Úr a pásztorom, jó pásztor Ő
 Nyájával arra jár, amerre várva vár
@@ -248,6 +237,24 @@ A forrás hűs vize, a zöld mező.
 Ha Ő a pásztorom semmi sem árt.
 Törődik énvelem, vigyáz rám szüntelen,
 Követem lábnyomát mindenen át!
+
+
+11# Jöjj, az Úr vár reád
+
+Jöjj, az Úr vár reád, jöjj, amíg ifjú vagy!
+Életed tavaszát, derűjét Neki add!
+Ó, ne hagyd fejedet bűnben őszülni vénhedté!
+Ne csupán teledet vigyed végül az Úr elé!
+
+Ó, a szárnyas idő, mint az álom repül,
+Ámde zsákmányt szed ő, fogyunk szüntelenül.
+Tétován mire vársz? Hallod-é már a hívó szót?
+El ne késs, jaj vigyázz, mire eszmélsz, a van csak volt!
+
+Jézus hív, Vele járj, erre váltott meg Ő!
+Lelki sziklára állj, élő víz onnan jő!
+Ő nekünk utat tört, te is lépj arra hittel rá!
+Már itt lent s odafönt téged Ő tehet boldoggá!
 
 
 12#Amint vagyok
@@ -285,44 +292,43 @@ Fogadj el, Jézusom!
 
 13#Mint szarvas
 
-Mint szarvas hűs vízforrásra, 
+Mint szarvas hűs vízforrásra,
 úgy szomjazik lelkem Rád,
-Vágyódom az élő Isten után, 
+Vágyódom az élő Isten után,
 hogy mehessek Hozzá.
-Mért csüggedsz el én lelkem, 
+Mért csüggedsz el én lelkem,
 hisz pajzsod Ő és támaszod!
-Bízz az Úrban, mert karja megszabadít, 
+Bízz az Úrban, mert karja megszabadít,
 s hálával áldozol!
 
-
-Színezüst vagy színarany, 
+Színezüst vagy színarany,
 ami kincs, nekem mit sem ér,
-Benne látom minden örömömet, 
+Benne látom minden örömömet,
 te vagy az égi fény.
-Mért csüggedsz el én lelkem, 
+Mért csüggedsz el én lelkem,
 hisz pajzsod Ő és támaszod!
-Bízz az Úrban, mert karja megszabadít, 
+Bízz az Úrban, mert karja megszabadít,
 s hálával áldozol!
 
-Hű Barátom, hű Testvérem, 
+Hű Barátom, hű Testvérem,
 Királyom és Istenem,
-Minden másnál jobban óhajtalak, 
+Minden másnál jobban óhajtalak,
 mindenem vagy nekem.
-Mért csüggedsz el én lelkem, 
+Mért csüggedsz el én lelkem,
 hisz pajzsod Ő és támaszod!
-Bízz az Úrban, mert karja megszabadít, 
+Bízz az Úrban, mert karja megszabadít,
 s hálával áldozol!
 
 
 14#Menjetek be kapuin hálaadással
 
-Menjetek be kapuin hálaadással, 
+Menjetek be kapuin hálaadással,
 tornácaiba dicséretekkel!
-Menjetek be kapuin hálaadással, 
+Menjetek be kapuin hálaadással,
 tornácaiba dicséretekkel!
-Mert jó az Úr örökké való kegyelme 
+Mert jó az Úr örökké való kegyelme
 és hűsége megmarad mindörökre.
-Mert jó az Úr örökké való kegyelme 
+Mert jó az Úr örökké való kegyelme
 és hűsége megmarad mindörökre.
 
 
@@ -384,12 +390,12 @@ Meg nem égsz, nem perzsel, el nem ér a láng.
 
 17#Messziről száll dalunk
 
-Messziről száll dalunk, 
-halld meg ó Jézusunk, 
+Messziről száll dalunk,
+halld meg ó Jézusunk,
 csak feléd indulunk vágyakozva!
-Életünk töltse meg, 
+Életünk töltse meg,
 Lelked szent hatalma!
-Így fogadj el, bűneinkkel, 
+Így fogadj el, bűneinkkel,
 Krisztusunk vígy magasra!
 
 
@@ -414,7 +420,6 @@ Kétség és gond között s bánatimban
 Elrejtve nyugszom én karjaidban.
 Nappal s bús éjjelen az Úr mindig velem,
 Az Úr mindig velem, mindig velem.
-
 
 Járjak bár a halál árnyékában,
 Mért félnék? Vélem vagy ott is, Uram.
@@ -449,74 +454,28 @@ Hála a boldog percekért!
 Hála, hogy adtál dalt is, fényt is adtál szép zenét!
 
 
-21#Jöjj, az Úr vár reád
+21#Az ég és a föld
 
-Jöjj, az Úr vár reád, jöjj, amíg ifjú vagy!
-Életed tavaszát, derűjét Neki add!
-Ó, ne hagyd fejedet bűnben őszülni vénhedté!
-Ne csupán teledet vigyed végül az Úr elé!
-
-Ó, a szárnyas idő, mint az álom repül,
-Ámde zsákmányt szed ő, fogyunk szüntelenül.
-Tétován mire vársz? Hallod-e már a hívó szót?
-El ne késs, jaj vigyázz, mire eszmélsz, a van csak volt!
-
-Jézus hív, Vele járj, erre váltott meg Ő!
-Lelki sziklára állj, élő víz onnan jő!
-Ő nekünk utat tört, te is lépj arra hittel rá!
-Már itt lent s odafönt téged Ő tehet boldoggá!
-
-
-22#Ha te Jézust követed
-
-Ha te Jézust követed, akkor leszel boldog,
-Akármerre visz utad, Vele jó lesz dolgod.
-Esik eső, fúj a szél, vihar tombol, mit se félj:
-Ő visel rád gondot.
-
-
-23#Kik a Krisztusban hunytak el
-
-Kik a Krisztusban hunytak el mind boldogok,
-Mennybe jutnak a gyöngykapun túl,
-Színarany koronát, hófehér gyolcsruhát,
-Zengő hárfát ad nékik az Úr.
-
-És az életnek fájáról ád enniük,
-Ingyen isszák az élet vizét;
-Örök égi tavasz, béke országa az,
-Élni ott újra édeni szép!
-
-Fenn a mennyei városba’ Nincsen halál,
-nincsen éjszaka, nincsen sötét;
-Maga Isten a nap soha el nem apad,
-Ontja végtelen fényözönét!
-
-
-24#Az ég és a föld
-
-Az ég és a föld, az ég és a föld 
+Az ég és a föld, az ég és a föld
 Mostan ünnepelnek,
-Angyal és ember, angyal és ember 
+Angyal és ember, angyal és ember
 Vígan örvendeznek.
 /:Krisztus született, Isten ember lett.
 Angyalok dicsérik, királyok tisztelik,
 Pásztorok imádva, térd hajtva köszöntik,
 A nagy csudát hirdetik.:/
 
-
-
-Ó, bűnös ember, ó, bűnös ember, 
+Ó, bűnös ember, ó, bűnös ember,
 Nézz fel most az égre!
-Árad a földre, árad a földre 
+Árad a földre, árad a földre
 Mennynek dicsősége.
 /:Jön maga Isten, hogy megsegítsen,
 Kisgyermek képében leszállt az éjfélben.
-Szűnik a sötétség, éled a reménység 
+Szűnik a sötétség, éled a reménység
 Mindnyájunknak szívében.:/
 
 
-25#Az Úr csodásan működik
+22#Az Úr csodásan működik
 
 Az Úr csodásan működik,De útja rejtve van.
 Tenger takarja lábnyomát Szelek szárnyán, suhan.
@@ -534,7 +493,7 @@ Bízzál az Úrban, Rólad Ő meg nem feledkezik!
 Sorsod sötétlő árnya közt Szent arca rejtezik!
 
 
-26#Magára vette
+23#Magára vette
 
 Magára vette szennyes ruhámat.
 Megbékítette Istent, Atyámat.
@@ -562,7 +521,7 @@ Jézus Te drága, mit adjak Néked?
 Hozom elébed.
 
 
-27#A mélyből hozzád száll szavam
+24#A mélyből hozzád száll szavam
 
 A mélyből hozzád száll szavam:
 Krisztus kegyelmezz!
@@ -592,7 +551,7 @@ Te adj, te adj, erőt, erőt!
 Krisztus kegyelmezz!
 
 
-28#Jézus, Te égi szép
+25#Jézus, Te égi szép
 
 Jézus, Te égi szép, tündöklő fényű név,
 Legszentebb énnekem e föld ölén!
@@ -615,7 +574,7 @@ Míg a homályon át a lelkem otthonát,
 Világosságodat elérhetem!
 
 
-29#Ó, érthetetlen kegyelem
+26#Ó, érthetetlen kegyelem
 
 Ó, érthetetlen kegyelem,
 Mely rég utánam jár,
@@ -638,7 +597,7 @@ Dicsérni az Urat, mivel kegyelme nagy,
 S oly érthetetlen az.
 
 
-30#Bízom Benned, Uram Jézus
+27#Bízom Benned, Uram Jézus
 
 Bízom Benned, Uram Jézus!
 Benned bízom egyedül!
@@ -677,7 +636,7 @@ Te nagy kegyelmű, drága, hű Megváltó!
 Igéd bíztat reá!
 
 
-31#Erőt adsz minden helyzetben
+28#Erőt adsz minden helyzetben
 
 Erőt adsz minden helyzetben,
 Te vagy a kincsem, életem!
@@ -698,7 +657,7 @@ Jézus, hű Bárány, áldom szent Neved!
 Jézus, hű Bárány, áldom szent Neved!
 
 
-32#Atyám, két kezedben
+29#Atyám, két kezedben
 
 Atyám, két kezedben csak ott lakhatom,
 Biztonságot csak tőled kapok.
@@ -728,7 +687,7 @@ Tarts meg két kezedben, őrizz meg Uram!
 Oltalmadba rejtsd el sorsomat!
 
 
-33#Hűséged végtelen
+30#Hűséged végtelen
 
 Hűséged végtelen, Atyám nagy Isten,
 Elhat a mélybe s az egek fölé.
@@ -738,7 +697,6 @@ Hűséged végtelen, hűséged végtelen,
 Minden nap új áldás árad reám.
 Hiányom pótolod hatalmas kézzel,
 Hűséged végtelen, Uram hozzám.
-
 
 A tél, a nyár, az ősz, a feslő tavasz,
 A nap, a hold s a nagy csillagsereg
@@ -759,77 +717,77 @@ Hiányom pótolod hatalmas kézzel,
 Hűséged végtelen, Uram hozzám.
 
 
-34#Sűrű sötét van mindenfelé
+31#Sűrű sötét van mindenfelé
 
-Sűrű sötét van mindenfelé, 
+Sűrű sötét van mindenfelé,
 utat keresek az éjben,
-Sem csillagfény, sem reménysugár, 
+Sem csillagfény, sem reménysugár,
 árnyak suhannak az éjben.
-Remegő szívem hozzád kiált: 
+Remegő szívem hozzád kiált:
 Uram halld meg imámat!
-Menekvés nincsen, nem is lehet, 
+Menekvés nincsen, nem is lehet,
 Uram csak egyedül Nálad.
 
-Jézus, Te vagy a hajnali fény, 
+Jézus, Te vagy a hajnali fény,
 Te vagy a nap ragyogása,
-Te vagy az Isten lénye maga, 
+Te vagy az Isten lénye maga,
 arcának tündöklő mása.
-És aki Téged már megtalált, 
+És aki Téged már megtalált,
 szívében ott a béke,
-Te lettél annak örökre már 
+Te lettél annak örökre már
 oltalma és menedéke.
 
-Nem vagyok más, csak üres edény, 
+Nem vagyok más, csak üres edény,
 tölts meg hát Lelkeddel engem!
-Igédnek áldott, szent ereje 
+Igédnek áldott, szent ereje
 hadd munkálkodjék már bennem.
-Rajtam keresztül áradj, Uram, 
+Rajtam keresztül áradj, Uram,
 ragyogjon fényed szerte,
-Hogy általam sok-sok árva szív 
+Hogy általam sok-sok árva szív
 békéjét Benned meglelje.
 
-Amerre járok, merre kelek, 
+Amerre járok, merre kelek,
 Te légy, Uram, a vezérem,
-Hogy saját tervem, akaratom 
+Hogy saját tervem, akaratom
 ne legyen többé énnékem.
-Ne éljek többé már soha én, 
+Ne éljek többé már soha én,
 Lelkeddel élj Te bennem!
-Majd általlépve a gyöngykapun, 
+Majd általlépve a gyöngykapun,
 Uram, engedj Hozzád mennem!
 
 
-35#Te csak az Istennek országát keresd
+32#Te csak az Istennek országát keresd
 
-Te csak az Istennek országát keresd, 
+Te csak az Istennek országát keresd,
 És az Ő nagy igazságát,
-Minden egyéb megadatik majd neked. 
+Minden egyéb megadatik majd neked.
 Békéje, áldása vár rád.
-Halleluja, Halleluja, 
+Halleluja, Halleluja,
 Halleluja, Halleluja!
 
-Istenünk, itt hozzuk néked mindenünk, 
+Istenünk, itt hozzuk néked mindenünk,
 Itt állunk, várunk rád újra.
-Kérünk, hogy hallgasd meg hálaénekünk, 
+Kérünk, hogy hallgasd meg hálaénekünk,
 Halleluja, Halleluja!
-Halleluja, Halleluja, 
+Halleluja, Halleluja,
 Halleluja, Halleluja!
 
-Kérd bízva és gondod elűzi neked, 
+Kérd bízva és gondod elűzi neked,
 Keresd és meg fogod lelni,
-Zörgess az ajtón és megnyílik neked. 
+Zörgess az ajtón és megnyílik neked.
 Halleluja, Halleluja!
-Halleluja, Halleluja, 
+Halleluja, Halleluja,
 Halleluja, Halleluja!
 
-Ragyogja be Fényed az embereket, 
+Ragyogja be Fényed az embereket,
 Hogy meglássák dicsőségét,
-És áldjuk együtt Atyánkat a Mennyben. 
+És áldjuk együtt Atyánkat a Mennyben.
 Halleluja, Halleluja!
-Halleluja, Halleluja, 
+Halleluja, Halleluja,
 Halleluja, Halleluja!
 
 
-36#Igéddel áldj meg bennünket, Urunk!
+33#Igéddel áldj meg bennünket, Urunk!
 
 Igéddel áldj meg bennünket, Urunk,
 Így lesz e hajlék lelki otthonunk,
@@ -846,20 +804,20 @@ Buzdíts, hogy szívvel szolgáljunk Neked,
 Áraszd ki ránk is áldott Lelkedet!
 
 
-37#Itt az este
+34#Itt az este
 
-Itt az este, ránk borul árnya, 
+Itt az este, ránk borul árnya,
 védjen, óvjon hű kezed!
-Adjál annak, akit szeretsz 
+Adjál annak, akit szeretsz
 álmában is eleget!
 
-Reád bízzuk gyermeki hittel 
+Reád bízzuk gyermeki hittel
 testünk-lelkünk, jó Atyánk.
-Hű Pásztorunk, esdve kérünk, 
+Hű Pásztorunk, esdve kérünk,
 áldásodat áraszd ránk.
 
 
-38#Íme lészen a kései korban
+35#Íme lészen a kései korban
 
 Íme lészen a kései korban,
 Hogy az Úr hegye áll hegyek orma felett.
@@ -883,7 +841,7 @@ Vele győztek a mennyei fények,
 Vele itt az ígért örök élet!
 
 
-39#Jézus a mi oltalmunk
+36#Jézus a mi oltalmunk
 
 Jézus a mi oltalmunk, erősségünk,
 Ha ránk szakad minden baj, mégse félünk.
@@ -918,7 +876,7 @@ Ha ránk szakad minden baj, mégse félünk.
 Ha ránk tör az ellenség, Benne bízunk.
 
 
-40#Új szövetséged elfogadom
+37#Új szövetséged elfogadom
 
 Újszövetséged elfogadom,
 Magam egészen odaadom!
@@ -936,7 +894,7 @@ Járva az utat, ha botlanék,
 Emelj magadhoz, keresztedért!
 
 
-41#Tégy engem békeköveteddé
+38#Tégy engem békeköveteddé
 
 Tégy engem békeköveteddé,
 Hogy hinthessem az Ige-magvakat!
@@ -946,7 +904,6 @@ Hogy hinthessem az Ige-magvakat!
 Hogy mi voltam és mivé lettem én!
 Egész életemmel, lényemmel hirdessem:
 Jézus él, Benne mindig van remény!
-
 
 Tégy engem békeköveteddé,
 Bár Nélküled én oly kicsiny vagyok,
@@ -967,7 +924,7 @@ Egész életemmel, lényemmel hirdessem:
 Jézus él, Benne mindig van remény!
 
 
-42#Új szívet adj
+39#Új szívet adj
 
 Új szívet adj, Uram énnekem,
 Új szívet adj, én Istenem,
@@ -985,37 +942,46 @@ S én is tudom, bűntelen leszek
 Majd Nálad odafenn, A Mennyben odafenn.
 
 
-43#Tüzed, Uram Jézus
+40#Tüzed, Uram Jézus
 
-Tüzed, Uram Jézus, szítsd a szívemben, 
+Tüzed, Uram Jézus, szítsd a szívemben,
 Lángja lobogjon elevenebben!
-Ami vagyok és mind, ami az enyém, 
+Ami vagyok és mind, ami az enyém,
 Tartsd a kezedben, igazi helyén!
-Életem kútja, örök örömem, 
+Életem kútja, örök örömem,
 Fény a sötétben csak Te vagy nekem!
-Hallod imám, és bármi fenyeget, 
+Hallod imám, és bármi fenyeget,
 Nem hagy el engem, tart a Te kezed!
 
-Szorongat a sátán, de Te velem vagy, 
+Szorongat a sátán, de Te velem vagy,
 Hű Szabadítóm, Aki el nem hagy.
-Ennek a világnak fekete egén 
+Ennek a világnak fekete egén
 Lényed a csillag, sugarad a fény.
-Életem kútja, örök örömem, 
+Életem kútja, örök örömem,
 Fény a sötétben csak Te vagy nekem!
-Hallod imám, és bármi fenyeget, 
+Hallod imám, és bármi fenyeget,
 Nem hagy el engem, tart a Te kezed!
 
-Jön az örök nap, már közeledik Ő, 
+Jön az örök nap, már közeledik Ő,
 Mennyei honba hazavinni jő.
-Röpke pillanat, míg tart a keserű, 
+Röpke pillanat, míg tart a keserű,
 S Jézus elém jön, örök a derű.
-Életem kútja, örök örömem, 
+Életem kútja, örök örömem,
 Fény a sötétben csak Te vagy nekem!
-Hallod imám, és bármi fenyeget, 
+Hallod imám, és bármi fenyeget,
 Nem hagy el engem, tart a Te kezed!
 
 
-44#Velem vándorol
+41#Áldjon meg téged
+
+Áldjon meg téged, áldjon az Úr!
+Őrizzen téged, őrizzen Ő!
+Orcáját mennyekből fordítsa le rád Atyád,
+Könyörüljön rajtad, könyörüljön rajtad!
+Adjon békességet!
+
+
+42#Velem vándorol
 
 Velem vándorol utamon Jézus,
 Gond és félelem el nem ér.
@@ -1048,7 +1014,7 @@ Nevét végtelen áldom én,
 Nevét végtelen áldom én.
 
 
-45#Ha utam borítja felhőnek árnya
+43#Ha utam borítja felhőnek árnya
 
 Ha utam borítja felhőnek árnya,
 S Uramnak céljait nem érthetem,
@@ -1065,21 +1031,24 @@ S testem is, lelkem is erőtelen,
 Az Úr a segítőm, amint megmondta,
 S Krisztusnak kegyelme elég nekem!
 
-
 Ha eljön maholnap utolsó órám,
 S a földi vándorlást bevégezem,
 Az Úrnak orcája ragyog majd énrám,
 S Krisztusnak kegyelme elég nekem!
 
 
-46#Jézushoz jöjjetek
+44#Jézushoz jöjjetek
 
 Jézushoz jöjjetek, megfáradtak,
 Igája néktek is nyugalmat ad.
 Terhe könnyű, irgalma nagy.
 
+Zengjetek éneket az Istennek,
+Áldjátok szent Nevét minden népek!
+Szívvel, szájjal dicsérjétek
 
-47#Elmúlt az éj, felkelt a nap
+
+45#Elmúlt az éj, felkelt a nap
 
 Elmúlt az éj, felkelt a nap,
 Elűzi mind az árnyakat.
@@ -1091,24 +1060,20 @@ Vezessen áldó, hű kezed!
 Te légy vezérem nehéz ösvényen, Jézusom!
 Te légy vezérem nehéz ösvényen, Jézusom!
 
-
 Roskadó lábam támasza,
 Csüggedő szívem vigasza,
 Örömöm fénye, szép ékessége, Jézusom!
 Örömöm fénye, szép ékessége, Jézusom!
-
 
 Ha bűnnek terhe földre vet,
 Gonosz tőrétől ments Te meg,
 Vezess a fényre, igaz ösvényre, Jézusom!
 Vezess a fényre, igaz ösvényre, Jézusom!
 
-
 Ha látok sírót, szenvedőt,
 Te adj szívembe szent erőt
 Könnyet törölni, sebet kötözni, Jézusom!
 Könnyet törölni, sebet kötözni, Jézusom!
-
 
 Halál órája már ha int,
 Nyugtalan szívem Rád tekint:
@@ -1116,100 +1081,46 @@ Légy békessége, örök reménye, Jézusom!
 Légy békessége, örök reménye, Jézusom!
 
 
-48#Dicsőség néked, Istenünk
+46#Záporként hull majd az áldás
 
-Dicsőség Néked, Istenünk!
-Fiaddal együtt dicsérünk.
-Eleget Ő tett miértünk.
-Halleluja, halleluja,  halleluja!
-
-Harmadnap, húsvét hajnalán
-A kő még sírján sötétlett,
-De Ő, mint élő, kilépett.
-Halleluja, halleluja,  halleluja!
-
-Az angyal szólt: „Ne féljetek!
-Szívetek Jézushoz vágyik,
-Üres a sírja, nincs már itt.”
-Halleluja, halleluja,  halleluja!
-
-Bízzatok! Él! Feltámadott!
-Leküzdött minden ínséget,
-Halálon győzött az élet.
-Halleluja, halleluja,  halleluja!
-
-Mi Téged kérünk, Krisztusunk,
-Élő és győztes Vezérünk:
-Add meg, mi üdvös, minékünk!
-Halleluja, halleluja,  halleluja!
-
-Hogy bűnt levetve, áldhassunk,
-S örökké zengjen az ének:
-Dicsőség Jézus nevének!
-Halleluja, halleluja,  halleluja!
-
-
-49#Áldjon meg téged
-
-Áldjon meg téged, áldjon az Úr!
-Őrizzen téged, őrizzen Ő!
-Orcáját mennyekből fordítsa le rád Atyád,
-Könyörüljön rajtad, könyörüljön rajtad!
-Adjon békességet!
-
-
-50#Feljött a Nap
-
-Feljött a Nap, keressed hát
-Jézus szavát, akaratát!
-
-Lement a Nap, fogadd el hát
-Minden bűnöd bocsánatát!
-
-Elmúlt a Nap, felejtsd el hát
-Minden baját, jó éjszakát!
-
-
-51#Záporként hull majd az áldás
-
-„Záporként hull majd az áldás” 
+„Záporként hull majd az áldás”
 így szól a Mindenható
-Gazdag, üdítő időket 
+Gazdag, üdítő időket
 ígér az isteni szó;
-Várjuk a záport, 
+Várjuk a záport,
 várjuk a záport, Atyánk,
-Cseppekben hull csak az áldás, 
+Cseppekben hull csak az áldás,
 küldj áldás záport reánk.
 
-Záporként hull majd az áldás, 
+Záporként hull majd az áldás,
 Jézusé lesz ez a föld:
-Szent neve és diadalma 
+Szent neve és diadalma
 halmot és völgyet betölt.
-Várjuk a záport, 
+Várjuk a záport,
 várjuk a záport, Atyánk,
-Cseppekben hull csak az áldás, 
+Cseppekben hull csak az áldás,
 küldj áldás záport reánk.
 
-Záporként hull majd az áldás, 
+Záporként hull majd az áldás,
 e szó Atyánk, a Tied,
-Küldd az üdítő időket, 
+Küldd az üdítő időket,
 váltsd be ígéretedet.
-Várjuk a záport, 
+Várjuk a záport,
 várjuk a záport, Atyánk,
-Cseppekben hull csak az áldás, 
+Cseppekben hull csak az áldás,
 küldj áldás záport reánk.
 
-Záporként hull majd az áldás, 
+Záporként hull majd az áldás,
 nyisd meg az ár kapuját,
-Most, hogy magunk megalázva, 
+Most, hogy magunk megalázva,
 hő szívünk vágyva kiált:
-Várjuk a záport, 
+Várjuk a záport,
 várjuk a záport, Atyánk,
-Cseppekben hull csak az áldás, 
+Cseppekben hull csak az áldás,
 küldj áldás záport reánk.
 
 
-52#A győztes nagy Királynak
+47#A győztes nagy Királynak
 
 A győztes nagy Királynak dicső csapatja fel!
 A drága keresztfának jelével indulj el!
@@ -1232,27 +1143,7 @@ A győztesek Királya vár ránk békét adón,
 A könny után Hozsánna: kereszt után a trón.
 
 
-53#Ó, terjeszd ki, Jézusom
-
-Ó, terjeszd ki, Jézusom oltalmazó szárnyad,
-És csitíts el szívemben bút, örömöt, vágyat.
-Légy mindenem, légy fényem, sötéten jő az éj,
-Nagy irgalmadból élnem szüntelen Te segélj!
-
-Ó, mosson meg az értem Bőven hullt drága vér!
-Új Lélekért könyörgök, Újult akaratért.
-Kicsik, nagyok mind kérünk: Őrködj vigyázva ránk!
-Békességedbe térünk: Te áldd meg éjszakánk!
-
-
-54#Mi segítségünk
-
-Mi segítségünk
-Az Úr nevében légyen,
-Ki a földet, egeket alkotta.
-
-
-55#Bús, sötét éjből, börtönömből
+48#Bús, sötét éjből, börtönömből
 
 Bús, sötét éjből, börtönömből,
 Jézus, jövök, Jézus, jövök,
@@ -1291,7 +1182,7 @@ Láthatom orcád s angyalaid.
 Jézus, jövök Hozzád!
 
 
-56#Jövel, jövel Immánuel
+49#Jövel, jövel Immánuel
 
 Jövel, jövel Immánuel,
 Csak téged áhít Izráel,
@@ -1308,7 +1199,7 @@ Meglásd, meglásd, ó, Izráel,
 Hogy eljövend Immánuel!
 
 
-57#Tégy Uram engem áldássá
+50#Tégy Uram engem áldássá
 
 Tégy Uram engem áldássá, Lelkedet úgy várom.
 Tedd Te a szívem hálássá, hogy Neked szolgáljon!
@@ -1316,7 +1207,7 @@ Bárhová küldesz, ajkamról zengjen az új ének.
 Tégy Uram engem áldássá,  oly sok a bús élet!
 
 
-58#Úr lesz a Jézus
+51#Úr lesz a Jézus
 
 Úr lesz a Jézus mindenütt,
 Hol csak a napnak fénye süt.
@@ -1344,20 +1235,7 @@ Angyali ének zengjen fenn,
 S mind e föld mondja rá: Ámen!
 
 
-59#Úr Jézus, taníts meg örülni
-
-Úr Jézus, Úr Jézus, taníts meg örülni!
-Szememből, szemekből könnyeket törölni!
-Taníts, hogy ne legyek másoknak kárára,
-Taníts meg jóságra, békére, hálára!
-
-Taníts, hogy jól éljek, taníts meg fényteli,
-Örvendő élettel messzire fényleni!
-Tanítsd meg szívemet csak veled röpülni,
-Úr Jézus, Úr Jézus, taníts meg örülni!
-
-
-60#Szívből köszönöm, Uram
+52#Szívből köszönöm, Uram
 
 Szívből köszönöm, Uram, az  életet,
 Mind a jóért, mit oly bőven adtál nekem,
@@ -1365,7 +1243,6 @@ Zengek hálaéneket.
 Szívből köszönöm, Uram, a békémet,
 Most hozzád száll az öröm hangjain:
 Halleluja!
-
 
 Áldom, dicsérem Neved, mert úgy szeretsz,
 Mikor próbákkal küzdök, Te rám tekintesz,
@@ -1375,7 +1252,20 @@ A lelkem hálaimát mond Neked:
 Halleluja!
 
 
-61#Ne aggodalmaskodjál
+53#Ó, terjeszd ki, Jézusom
+
+Ó, terjeszd ki, Jézusom oltalmazó szárnyad,
+És csitíts el szívemben bút, örömöt, vágyat.
+Légy mindenem, légy fényem, sötéten jő az éj,
+Nagy irgalmadból élnem szüntelen Te segélj!
+
+Ó, mosson meg az értem Bőven hullt drága vér!
+Új Lélekért könyörgök, Újult akaratért.
+Kicsik, nagyok mind kérünk: Őrködj vigyázva ránk!
+Békességedbe térünk: Te áldd meg éjszakánk!
+
+
+54#Ne aggodalmaskodjál
 
 Ne aggodalmaskodjál, nézz Istenedre fel!
 Ő felruházz és táplál, rád gondot Ő visel!
@@ -1383,7 +1273,7 @@ Dicső Király, ég és a föld Ura!
 Szívünk Tiéd, légy annak is Ura!
 
 
-62#Teremts bennem tiszta szívet
+55#Teremts bennem tiszta szívet
 
 Teremts bennem tiszta szívet, ó Uram!
 Az erős lelket újítsd meg bennem!
@@ -1393,7 +1283,7 @@ Támogass az engedelmesség lelkével,
 Szabadításod örömét add nekem!
 
 
-63#Ó, hogy volt idő
+56#Ó, hogy volt idő
 
 Ó, hogy volt idő, mikor még
 Éltem csak magamnak én.
@@ -1424,7 +1314,7 @@ Tenger zúgó árja mély.
 Mindent csak Te, semmit én!”
 
 
-64#Ó Jézus, árva csendben
+57#Ó Jézus, árva csendben
 
 Ó Jézus, árva csendben, az ajtón kívül állsz,
 Bejönnél már, de némán kulcsfordulásra vársz.
@@ -1442,7 +1332,7 @@ Bús szégyennel behívunk, az ajtónk nyitva már.
 Jöjj, Jézus, jöjj, ne hagyj el, a szívünk várva vár!
 
 
-65#Mossál meg engem
+58#Mossál meg engem
 
 Mossál meg engem, moss meg Uram!
 Jól ismered Te minden utam,
@@ -1469,7 +1359,7 @@ Szolgálva már itt s majd oda át!
 Mossál meg engem, mossál meg hát!
 
 
-66#Ki az Úrban bízott
+59#Ki az Úrban bízott
 
 Ki az Úrban bízott, nem csalódott még.
 Első lennék én, ha szégyent vallanék.
@@ -1492,37 +1382,7 @@ Fénylő Nap, ki szórja tiszta sugarát.
 Oda, hol a Bárány vacsorája vár.
 
 
-67#Jöjj el az élet vizéhez
-
-Jöjj el az élet vizéhez, 
-nélküle szomjas a szív,
-Átok alól szabadulsz itt, 
-hű Urad Ő, Aki hív.
-Jöjj hát, siess, jöjj, vár reád: 
-béke a földön, az üdv odaát!
-Itt van az élet, a forrás, 
-nincs sehol és soha más!
-
-Jöjj újulásra e vízben, 
-új a hit és szeretet,
-Eltűnik itt, ami régi, 
-s kezded az új életet.
-Jöjj hát, siess, jöjj, vár reád: 
-béke a földön, az üdv odaát!
-Itt van az élet, a forrás, 
-nincs sehol és soha más!
-
-Jöjj hát az élet vizéhez, 
-Jézus kínálja neked,
-Árad az élet belőled, 
-kútfeje lesz a szíved.
-Jöjj hát, siess, jöjj, vár reád: 
-béke a földön, az üdv odaát!
-Itt van az élet, a forrás, 
-nincs sehol és soha más!
-
-
-68#Jézusról, csak róla
+60#Jézusról, csak róla
 
 Jézusról, csak Róla mondok éneket,
 Ő, csak Ő hordozza minden vétkemet
@@ -1545,7 +1405,7 @@ Az aranyvárosban lesz lakóhelyem,
 Örök menyegzőben örvendezhetem.
 
 
-69#Áldó hatalmak oltalmába rejtve
+61#Áldó hatalmak oltalmába rejtve
 
 Áldó hatalmak oltalmába rejtve
 Csak várjuk békén mindazt ami jő,
@@ -1573,7 +1433,7 @@ Amely betölti rejtett, szép világod,
 Hol téged dicsér minden gyermeked!
 
 
-70#Királyi gyermek vagyok
+62#Királyi gyermek vagyok
 
 Királyi gyermek vagyok én,
 Van hófehér ruhám.
@@ -1583,7 +1443,6 @@ Jézussal járom utamat,
 Megfogva a kezét,
 Királyi gyermek vagyok én,
 És ez nekem elég.
-
 
 E földön vándor vagyok én,
 Vár égi szép hazám.
@@ -1595,7 +1454,37 @@ Királyi gyermek vagyok én,
 És ez nekem elég.
 
 
-71#Halld meg, bűnös ember
+63#Jöjj el az élet vizéhez
+
+Jöjj el az élet vizéhez,
+nélküle szomjas a szív,
+Átok alól szabadulsz itt,
+hű Urad Ő, Aki hív.
+Jöjj hát, siess, jöjj, vár reád:
+béke a földön, az üdv odaát!
+Itt van az élet, a forrás,
+nincs sehol és soha más!
+
+Jöjj újulásra e vízben,
+új a hit és szeretet,
+Eltűnik itt, ami régi,
+s kezded az új életet.
+Jöjj hát, siess, jöjj, vár reád:
+béke a földön, az üdv odaát!
+Itt van az élet, a forrás,
+nincs sehol és soha más!
+
+Jöjj hát az élet vizéhez,
+Jézus kínálja neked,
+Árad az élet belőled,
+kútfeje lesz a szíved.
+Jöjj hát, siess, jöjj, vár reád:
+béke a földön, az üdv odaát!
+Itt van az élet, a forrás,
+nincs sehol és soha más!
+
+
+64#Halld meg, bűnös ember
 
 Halld meg bűnös ember: Jézus szeret!
 Bűnöd, bár nagy tenger, Jézus szeret.
@@ -1623,7 +1512,7 @@ Hozzá hívek légyünk, tőle el ne térjünk,
 Zengjük, amíg élünk: Jézus szeret!
 
 
-72#Ó jöjj, ó jöjj Üdvözítő
+65#Ó jöjj, ó jöjj Üdvözítő
 
 Ó jöjj, ó jöjj Üdvözítő,
 Beteljesült már az idő,
@@ -1646,7 +1535,7 @@ Kelj fel napunk, fényességed
 Űzze el a sötétséget!
 
 
-73#Ó, mi hű barát
+66#Ó, mi hű barát
 
 Ó, mi hű barátunk Jézus, Hordja bűnünk, bánatunk,
 Mily dicsőség, hogy nevében Istenhez fordulhatunk.
@@ -1664,7 +1553,7 @@ Megvet, elhagy, kit szerettél? Vidd imádban Ő elé.
 S Ő két karja közt ölelve visz a békesség felé.
 
 
-74#Csak Istené legyen minden dicsőség
+67#Csak Istené legyen minden dicsőség
 
 Csak Istené legyen minden dicsőség,
 Örvendezzen az Úr az Ő népében.
@@ -1672,7 +1561,7 @@ Egész életemben Uram dicsérlek,
 Áldom a Te szent neved, amíg élek.
 
 
-75#Mélyen meghajlok
+68#Mélyen meghajlok
 
 Mélyen meghajlok ím színed előtt
 Töltsd ki kegyelmedet, öntsd ki erőd,
@@ -1702,7 +1591,7 @@ Krisztus, a szívemet tárom eléd,
 Élet vagy nékem és nyereség!
 
 
-76#Nagy Istenem
+69#Nagy Istenem
 
 Nagy Istenem, ha nézem a világot
 Mit alkotott Te szent Legyen szavad
@@ -1732,40 +1621,7 @@ A szívem áld, és hála tölti be
 Mily nagy vagy Te, mily nagy vagy Te
 
 
-77#Jövel szentlélek Isten
-
-Jövel szentlélek Isten,
-Ereszd reánk kegyesen
-Mennyből fényességedet!
-Jöjj el, árvák gyámola,
-Jöjj el, szívünk orvosa,
-Oszd ki égi kincsedet!
-Jöjj el, jöjj el,
-jöjj el, jöjj el,
-Jöjj el, Szentlélek Isten!
-
-Ó, kegyes Vigasztalónk,
-Testi-lelki Táplálónk,
-Érezzük bőségedet.
-Fáradtságban nyugalmunk,
-Hévségünkben árnyékunk,
-Sírásunkban örömünk.
-Jöjj el, jöjj el,
-jöjj el, jöjj el,
-Jöjj el, Szentlélek Isten!
-
-Bűnünk mocskát tisztogasd,
-Szárazságunk mosogasd,
-Gyógyítsd a sebhedt lelket!
-Világosítsd elménket,
-Erősítsed hitünket,
-Vedd el kemény szívünket!
-Jöjj el, jöjj el,
-jöjj el, jöjj el,
-Jöjj el, Szentlélek Isten!
-
-
-78#Od’adtam életem
+70#Od’adtam életem
 
 Od’adtam életem,
 Kiontám vérem én.
@@ -1796,7 +1652,7 @@ Mindezt adom neked:
 Add nékem szívedet!
 
 
-79#Szelíd szemed
+71#Szelíd szemed
 
 Szelíd szemed, Úr Jézus,
 Jól látja minden vétkemet.
@@ -1819,7 +1675,7 @@ Csak várom, hogy majd rám tekint
 Szelíd szemed, Úr Jézus.
 
 
-80#Hinni taníts, Uram
+72#Hinni taníts, Uram
 
 Hinni taníts Uram, kérni taníts,
 Gyermeki nagy hitet kérni taníts!
@@ -1842,7 +1698,7 @@ Majd, ha kegyelmesen nézed az életem,
 Állhassak csendesen, - hinni taníts!
 
 
-81#Hű Jézusom kezébe
+73#Hű Jézusom kezébe
 
 Hű Jézusom kezébe teszem kezem belé,
 Ő életem vezére, vezet hazám felé.
@@ -1860,14 +1716,14 @@ S tudom, hogy még dicsőbb ég ragyog majd énreám,
 Ha majd a menybe érvén belépek ajtaján.
 
 
-82#Ne csüggedj, lelkem
+74#Ne csüggedj, lelkem
 
 Ne csüggedj, lelkem, hű az Isten,
 Bízzál Őbenne, Ő hordja terhed!
 Megváltó, őriző pásztorod Ő!
 
 
-83#Isten nevét dicsérem
+75#Isten nevét dicsérem
 
 Isten nevét dicsérem, szívem csupa hála,
 Együtt mondjunk háladalt, közös ének áldja:
@@ -1895,46 +1751,46 @@ Jóság, hűség, kezed minden műve,
 Szent vagy, jó vagy, áldunk mindörökre!
 
 
-84#A mélyből kiáltok
+76#A mélyből kiáltok
 
-A mélyből kiáltok, Jézus, 
+A mélyből kiáltok, Jézus,
 a bűnöm verme de mély!
-Rám omlott az átok, Jézus, 
+Rám omlott az átok, Jézus,
 oly szörnyű sötét az éj!
-Ha nem jössz a segélyre Jézus, 
+Ha nem jössz a segélyre Jézus,
 kialszik minden remény;
-És itt, a vak éjbe’, Jézus, 
+És itt, a vak éjbe’, Jézus,
 mélybe veszek el én!
 
-Te mindent vállaltál, Jézus, 
+Te mindent vállaltál, Jézus,
 kínt, szégyent ott fenn a fán,
-És értem meghaltál, Jézus, 
+És értem meghaltál, Jézus,
 a véres, bús Golgotán.
-Nagy üdvöt szereztél, Jézus, 
+Nagy üdvöt szereztél, Jézus,
 s én hittel elfogadom.
-A szívem cserébe, Jézus, 
+A szívem cserébe, Jézus,
 Tenéked odaadom!
 
-Ó, Téged szeretni, Jézus, 
+Ó, Téged szeretni, Jézus,
 a szívem boldog joga,
-És Téged követni, Jézus, 
+És Téged követni, Jézus,
 az élet célja maga.
-Tevéled haladni, Jézus, 
+Tevéled haladni, Jézus,
 a mennyek felé menés,
-És nálad maradni, Jézus, 
+És nálad maradni, Jézus,
 az béke, megpihenés.
 
-A Lelked vigasztal, Jézus, 
+A Lelked vigasztal, Jézus,
 és Ő ad mindig erőt.
-A lelkem magasztal, Jézus, 
+A lelkem magasztal, Jézus,
 s magasztal a világ előtt.
-Örömmel megyek be, Jézus, 
+Örömmel megyek be, Jézus,
 Tehozzád a mennybe fel,
-S ott fenn az egekbe’, Jézus, 
+S ott fenn az egekbe’, Jézus,
 Te, rólam vallást teszel.
 
 
-85#Boldog ember az
+77#Boldog ember az
 
 Boldog ember az, ki bűnt nem ismer,
 Kinek vétke már elfedeztetett.
@@ -1957,7 +1813,7 @@ Boldog ember az, kinek szíve bűntelen,
 Lelkében csalárdság nincsen.
 
 
-86#A béke messze tőled
+78#A béke messze tőled
 
 A béke messze tőled, szíved  örömtelen.
 A lépted is oly fáradt, szemed de fénytelen.
@@ -1985,7 +1841,7 @@ Jézus az út, az igazság, s az élet, Őt keresd!
 Többé te nem keresnél más életet soha!
 
 
-87#Légy Jézus Krisztus harcosa
+79#Légy Jézus Krisztus harcosa
 
 Légy Jézus Krisztus harcosa,
 És bátran állj elő!
@@ -2033,7 +1889,7 @@ Fönt Isten adja néked át
 Az életkoronád!
 
 
-88#Fáradtan, bűnbe veszve
+80#Fáradtan, bűnbe veszve
 
 Fáradtan, bűnbe veszve
 Jártam az életet,
@@ -2091,7 +1947,7 @@ Vér, mely eltörölted bűnömet,
 Mind örökre  áldva légyetek!
 
 
-89#Vágyol-e elhagyni bűneidet?
+81#Vágyol-e elhagyni bűneidet?
 
 Vágyol-e elhagyni bűneidet?
 Az Úr vérében van nagy erő
@@ -2130,50 +1986,50 @@ Van erő, van, csodás erő van
 Jézus drága, szent vérében!
 
 
-90#Áldjad lelkem
+82#Áldjad lelkem
 
-Áldjad lelkem, áldjad életem, 
+Áldjad lelkem, áldjad életem,
 mindig áldjad az Urat!
-Hálaének drága illata 
+Hálaének drága illata
 az, ha szívedből fakad.
-Minden reggel, délben, 
-vagy ha jő az est, 
+Minden reggel, délben,
+vagy ha jő az est,
 szálljon hálaáldozat.
-Áldjad lelkem, áldjad életem, 
+Áldjad lelkem, áldjad életem,
 mindig áldjad az Urat!
 
-Krisztus Jézus, Isten Szent Fia 
+Krisztus Jézus, Isten Szent Fia
 elhagyta dicső honát,
-És mint bárány, mert úgy szeretett, 
+És mint bárány, mert úgy szeretett,
 értünk adta önmagát.
-Minden reggel, délben, 
-vagy ha jő az est, 
+Minden reggel, délben,
+vagy ha jő az est,
 szálljon hálaáldozat.
-Áldjad lelkem, áldjad életem, 
+Áldjad lelkem, áldjad életem,
 mindig áldjad az Urat!
 
-Irgalmas és kegyelmes az Úr, 
+Irgalmas és kegyelmes az Úr,
 vétkeinkre nem tekint.
-Nem cselekszik és nem is fizet 
+Nem cselekszik és nem is fizet
 Ő a bűneink szerint.
-Minden reggel, délben, 
-vagy ha jő az est, 
+Minden reggel, délben,
+vagy ha jő az est,
 szálljon hálaáldozat.
-Áldjad lelkem, áldjad életem, 
+Áldjad lelkem, áldjad életem,
 mindig áldjad az Urat!
 
-Ismer minket és emlékezik, 
+Ismer minket és emlékezik,
 tudja, hogy porból vagyunk,
 Ám előtte bűnbánó szívvel
 mindig leborulhatunk.
-Minden reggel, délben, 
-vagy ha jő az est, 
+Minden reggel, délben,
+vagy ha jő az est,
 szálljon hálaáldozat.
-Áldjad lelkem, áldjad életem, 
+Áldjad lelkem, áldjad életem,
 mindig áldjad az Urat!
 
 
-91#Fel barátim
+83#Fel barátim
 
 Fel barátim, drága Jézus zászlaja alatt,
 Rajta, bátran! Megsegít és győzedelmet ad.
@@ -2196,7 +2052,7 @@ Bízzatok, mert Jézus eljön, ő a fővezér,
 Zengje ajkunk: hozzád esdünk győzedelemér'!
 
 
-92#Mily drága nekünk ez a jó hír
+84#Mily drága nekünk ez a jó hír
 
 Mily drága nékünk ez a jó hír,
 Mily édes örömtelten zeng!
@@ -2235,7 +2091,7 @@ Váltságát tedd a magadévá,
 Hidd, ez számodra is elég.
 
 
-93#Csend van bennem
+85#Csend van bennem
 
 Csend van bennem, és emlékezem,
 Képe a múltnak ím, megjelen,
@@ -2274,7 +2130,7 @@ Féltő karja újra átölel,
 Áttört kezéhez szívem közel.
 
 
-94#Ha csak hangulat él a szívemben
+86#Ha csak hangulat él a szívemben
 
 Ha csak hangulat él a szívemben,
 Ha tanácsa vezet egyedül,
@@ -2297,37 +2153,37 @@ Egyedül a szavad s az Igéd az,
 Ami tart, ami él s hatalom.
 
 
-95#Dicséri, áldja szüntelen
+87#Dicséri, áldja szüntelen
 
-Dicséri, áldja szüntelen 
+Dicséri, áldja szüntelen
 Jézust a szívem, ajkam.
-Amit Ő művelt énvelem, 
+Amit Ő művelt énvelem,
 amit Ő végzett rajtam,
-Azt némán el nem hallgatom, 
+Azt némán el nem hallgatom,
 ki jártam könnyes utakon,
-Csodáit zengem vígan, 
+Csodáit zengem vígan,
 hirdetem boldogan.
 
-Rég koldus voltam, úttalan, 
+Rég koldus voltam, úttalan,
 Jézusban kincset leltem,
-Utamnak drága célja van, 
+Utamnak drága célja van,
 betölti fénnyel lelkem:
-A kincset széjjelosztani 
+A kincset széjjelosztani
 és Róla jó hírt mondani,
-Szolgálat boldog útja, 
+Szolgálat boldog útja,
 szent küldetésem ez.
 
-Szolgállak Téged szüntelen, 
+Szolgállak Téged szüntelen,
 Jézusom, fénylő hajnal,
-Törölve fájó könnyeket, 
+Törölve fájó könnyeket,
 harcolva búval, bajjal,
-Míg utamon Hozzád el nem ér, 
+Míg utamon Hozzád el nem ér,
 hol nincs árnyék, eltölt a fény,
-Mert színről színre látom 
+Mert színről színre látom
 tündöklő arcodat.
 
 
-96#Azt az éltet vágyom élni
+88#Azt az éltet vágyom élni
 
 Azt az éltet vágyom élni, hol üdvöm lelem,
 Küzdeni egyre, nem henyélni, míg el nem nyerem.
@@ -2350,7 +2206,7 @@ S mert Igéd éltet szerez, tőle szívem ébredez,
 Célt, ha érek, zeng az ének: Isten műve ez!
 
 
-97#Ha az Úr szomorít
+89#Ha az Úr szomorít
 
 Ha az Úr szomorít, oka van rá.
 Tudom én javamért, szomorít.
@@ -2369,7 +2225,7 @@ Csuda fényre deríti gyászom,
 S örömárral elönt, beborít.
 
 
-98#Emlékezz vissza az útra
+90#Emlékezz vissza az útra
 
 Emlékezz vissza az útra,
 És Megtartódat áldd!
@@ -2399,7 +2255,7 @@ Szolgáljad őt hűen a sírig,
 És áldjad nagy kegyét!
 
 
-99#Ne bánkódj, testvér
+91#Ne bánkódj, testvér
 
 Ne bánkódj, testvér, vigyázz!
 Ne félj, ha Ővele jársz!
@@ -2420,7 +2276,7 @@ Halld, Jézus ad választ, Ő magához hív,
 Hát ne légy már többé fogoly!
 
 
-100#Ó, Ábrahám Ura
+92#Ó, Ábrahám Ura
 
 Ó, Ábrahám Ura, Hadd áldjuk szent neved,
 Mert mindenható vagy és örök szeretet.
@@ -2443,7 +2299,7 @@ Meglátom Jézusom És áldom hatalmát,
 Szent kegyelmének éneklek halleluját.
 
 
-101#Ó Sion, ébredj
+93#Ó Sion, ébredj
 
 Ó Sion, ébredj, töltsd be küldetésed.
 Mondd a világnak: hajnalod közel!
@@ -2481,7 +2337,7 @@ Légy örömmondó békekövet,
 Hirdesd: a Szabadító elközelgetett!
 
 
-102#Volna sok okom panaszkodni
+94#Volna sok okom panaszkodni
 
 Volna sok okom panaszkodni, volna sok okom sírni.
 Mégis van okom reménykedni, mégis van okom hinni.
@@ -2508,7 +2364,7 @@ Szívem énekeli, hogy hála és dicsőség,
 Hogy hála és dicsőség.
 
 
-103#Maradj velem
+95#Maradj velem
 
 Maradj velem, mert mindjárt este van,
 Nő a sötét, ó el ne hagyj, Uram;
@@ -2536,7 +2392,7 @@ Föld árnya fut, menny fénye megjelen:
 Halálban is Te légy, Uram, velem.
 
 
-104#Jöjj, szabadíts meg
+96#Jöjj, szabadíts meg
 
 Jöjj, szabadíts meg, ó, kegyes Isten,
 a nyomorúságból,
@@ -2564,7 +2420,7 @@ Hogy neved áldjuk minden időben,
 szent Fiadért! Ámen.
 
 
-105#Jézus téged kereslek
+97#Jézus téged kereslek
 
 Jézus téged kereslek, békességre vágyva.
 Űzött, hajszolt életem látod, milyen árva!
@@ -2582,7 +2438,7 @@ Tőled való örömöm hadd ragyogjon másra:
 Legyek minden embernek gyámolító társa!
 
 
-106#Isten báránya
+98#Isten báránya
 
 Isten báránya, Te ott a Golgotán
 Teljes győzelmet vettél a harc után
@@ -2613,7 +2469,7 @@ Bárány, légy áldva, ki elvérezél,
 S értem mindent elvégezél!
 
 
-107#Hittem benned, s most íme zengem
+99#Hittem benned, s most íme zengem
 
 Hittem benned, s most íme zengem
 Irgalmad nagy tettit ezért,
@@ -2623,7 +2479,6 @@ Zengek néked mert halálod
 mindent jól elvégezett,
 Bűnünk-elvett, mennyei Bárány,
 Érettünk elvérezett!
-
 
 Hittem benned, s most íme föllebb,
 Föllebb, mint a Golgotán,
@@ -2653,7 +2508,7 @@ Felhők szárnyán szállva, lebegve,
 jöjj, Úr Jézus, jöjj, mihamar!
 
 
-108#Nem láthat bár e földi szem
+100#Nem láthat bár e földi szem
 
 Nem láthat bár e földi szem,
 Jézus tiéd vagyok.
@@ -2681,7 +2536,7 @@ Színről színre látlak Magad,
 S fényedben élhetek.
 
 
-109#Nagy vagy Te, Isten
+101#Nagy vagy Te, Isten
 
 Nagy vagy Te, Isten, nagy a Te hatalmad,
 Világteremtő a Te szózatod!
@@ -2711,34 +2566,7 @@ Felém kinyújtád irgalmas kezed.
 Te üdvözítő nagy kegyelmedet!
 
 
-110#Örökélet reggele
-
-Örökélet reggele,
-Fény a véghetetlen fényből,
-Egy sugárt küldj ránk Te le,
-Kik új napra ébredénk föl,
-Fényed lelkünk éjjelét űzze szét.
-
-Jóságodnak harmata
-Gyarló életünkre hulljon,
-Szívünk, mely kiszárada,
-Vigaszodtól felviduljon,
-S híveid közt légy jelen Szüntelen.
-
-Bűn ruháját vessük el
-A szövetség vére által,
-Vétkeink fedezzük el
-Tőled nyert fehér ruhánkkal,
-Hogy hitünk legyőzze majd Mind a bajt.
-
-S majd vezess az égbe föl,
-Irgalomnak napvilága,
-Könnyek gyászos völgyiből
-Üdvösségnek szép honába,
-Hol az üdv és béke majd Egyre tart.
-
-
-111#Tudom: az én Megváltóm él
+102#Tudom: az én Megváltóm él
 
 Tudom: az én Megváltóm él,
 Hajléka készen vár reám;
@@ -2785,7 +2613,7 @@ Kitárt karjával vár az Úr:
 Jer, pihenj, nyugodj keblemen!
 
 
-112#A nagy mélységből
+103#A nagy mélységből
 
 A nagy mélységből szüntelen
 Hozzád kiáltok, Istenem,
@@ -2824,14 +2652,13 @@ Fiad érettem onta vért,
 Fogadj be Jézusért!
 
 
-113#Amit szívünk esdve kér
+104#Amit szívünk esdve kér
 
 Amit szívünk esdve kér, Földi kincsnél többet ér;
 Mind múlandó és üres, Amit a világ keres.
 Lásd, Uram, mi Lelkedet Kérjük, aki hűn vezet;
 Föl ne tartsa semmi gát, Hadd jelentse meg magát,
 Szíveink töltse be Mindörökre szent heve.
-
 
 Ne a test legyen Urunk, Kit követni indulunk;
 Lelked szóljon csak velünk, Mert mi rája figyelünk.
@@ -2858,7 +2685,7 @@ Föl ne tartsa semmi gát, Hadd jelentse meg magát,
 Szíveink töltse be Mindörökre szent heve.
 
 
-114#Az írás széjjel tépve
+105#Az írás széjjel tépve
 
 Az írás széjjel tépve, Szabad vagyok, szabad!
 Tudom, hogy megvevél Te, Meggyőztél ím magad!
@@ -2881,46 +2708,46 @@ Isten báránya, Téged Dicsérlek éj s napon,
 Zengjen dicséretünk!
 
 
-115#Csodálva, imádva
+106#Csodálva, imádva
 
-Csodálva, imádva tekintek 
+Csodálva, imádva tekintek
 Kegyelminek tengeribe,
-És hallgatom édes örömmel, 
+És hallgatom édes örömmel,
 Mit róla tanít az ige.
-Szent vére bűnt befedez, 
+Szent vére bűnt befedez,
 Tisztára mossa ruhám;
-Bizalmamat ebbe vetem, 
+Bizalmamat ebbe vetem,
 Reményem a Jézus csupán.
 
-Ó mennyi időt veszítettem, 
+Ó mennyi időt veszítettem,
 Sóhajtva a terhek alatt;
-De hogy magam Őneki adtam, 
+De hogy magam Őneki adtam,
 Lelkemről a súly leszakadt.
-Szent vére bűnt befedez, 
+Szent vére bűnt befedez,
 Tisztára mossa ruhám;
-Bizalmamat ebbe vetem, 
+Bizalmamat ebbe vetem,
 Reményem a Jézus csupán.
 
-Gyöngéd keze szívemet érte: 
+Gyöngéd keze szívemet érte:
 „Meggyógyítalak, fiam én”;
-S megfogva ruhája szegélyét, 
+S megfogva ruhája szegélyét,
 Erő s öröm szálla belém.
-Szent vére bűnt befedez, 
+Szent vére bűnt befedez,
 Tisztára mossa ruhám;
-Bizalmamat ebbe vetem, 
+Bizalmamat ebbe vetem,
 Reményem a Jézus csupán.
 
-Most vélem a béke királya, 
+Most vélem a béke királya,
 Vezéreli lépteimet,
-S oly édes az ajkin e szózat: 
+S oly édes az ajkin e szózat:
 „Békém adom én teneked!”
-Szent vére bűnt befedez, 
+Szent vére bűnt befedez,
 Tisztára mossa ruhám;
-Bizalmamat ebbe vetem, 
+Bizalmamat ebbe vetem,
 Reményem a Jézus csupán.
 
 
-116#Fogjad kezem
+107#Fogjad kezem
 
 Fogjad kezem, oly gyenge vagyok, érzem,
 Hogy nálad nélkül járni sem tudok.
@@ -2938,7 +2765,7 @@ De így Uram, e mennyből jövő fénynél,
 Reád tekintve, bizton indulok.
 
 
-117#Jézus vezesd gyermeked
+108#Jézus vezesd gyermeked
 
 Jézus vezesd gyermeked,
 Megvédhet erős kezed.
@@ -2968,7 +2795,7 @@ Vígy míg éjre nap derül,
 Benned bízom egyedül.
 
 
-118#Ó hála az Úrnak
+109#Ó hála az Úrnak
 
 Ó hála az Úrnak, zengjünk Néki hát,
 Mert úgy szeretett, hogy id'adta Fiát.
@@ -2998,7 +2825,7 @@ Jöjj bűnös az Úrhoz, mert Jézus az út,
 Ó fogadd szívedbe a drága Fiút!
 
 
-119#Ó ne félj!
+110#Ó ne félj!
 
 Ó ne félj, ne rettegj, én veled vagyok,
 Ím e szó utamra csillagként ragyog,
@@ -3028,7 +2855,7 @@ Az Úr így ígérte ezt meg,
 Soha nem leszek magam.
 
 
-120#Törvénytől menten
+111#Törvénytől menten
 
 Törvénytől menten boldog az élet,
 Jézus egészen elveszi vétked,
@@ -3058,7 +2885,7 @@ Bűntől az Úrnak vére fed be,
 Elég e vér mindörökre.
 
 
-121#Világíts nékem, Jézus
+112#Világíts nékem, Jézus
 
 Világíts nékem, Jézus, hogy mindig lássam ám,
 Mily nagy volt hő szerelmed, ott fenn a Golgotán.
@@ -3084,3 +2911,1248 @@ Kelj fel, ó drága Jézus, Hajnalcsillag jövel.
 Már virrad napkeletről, napod immár közel,
 S legédesb szódat hallom, szívem mást nem akar:
 „Jövel”, így szól a Lélek, „Ím eljövök hamar”.
+
+
+113#A Tábor ormán
+
+A Tábor ormán véle jártam én.
+Isteni arcán tündökölt a fény,
+Ruhája hófehéren csillogott,
+Hallott szívem szent, égi szózatot,
+A Tábor orma fényben ragyogott.
+
+A Tábor ormán Isten szólt maga,
+Jézus az ő szerelmes szent Fia.
+Övé a földön minden hatalom,
+Földön és égen és a poklokon,
+Őt kövessétek minden lábnyomon!
+
+A Tábor ormán oly jó volt vele,
+Gyönyörrel telt meg mindnyájunk szíve!
+Rajta kívül nem láttunk senki mást,
+Csak róla tett a szívünk vallomást,
+Csak róla tett a szívünk vallomást.
+
+A Tábor ormán lakni nem lehet,
+Várnak reánk bűnterhelt emberek.
+Hirdetni kell az áldott, szent igét,
+Jézushoz vinni milliók szívét,
+Széjjelhirdetni Jézus szent nevét.
+
+
+114#Miért félig
+
+Mért félig Tied a szívem, az életem,
+Mért félig, miért csak félig?
+Hiszen egészen Teneked adtam
+Maradék nélkül teljes magam.
+Most, íme mégis visszaragadtam,
+Hűtlen az éjem, nappalom, könyörülj rajtam, Jézusom!
+
+Mért félig kerülöm el a bűn ajtaját?
+Mért félig, miért csak félig?
+Sajnálom én is, hogy megtagadtam
+Sokszor Neved és szégyelltelek.
+Nem jó így nékem megosztva élnem,
+Hűtlen az éjem, nappalom, könyörülj rajtam, Jézusom!
+
+Mért félig követem az utat, hol Te jársz?
+Mért félig, miért csak félig?
+Magam is látom, nem az az élet,
+Ami betölti napjaimat.
+Idegen tűzben égek el, érzem,
+Hűtlen az éjem, nappalom, könyörülj rajtam, Jézusom!
+
+Nem félig állt a kereszted a Golgotán!
+Nem félig, nem is csak félig!
+Vállaltad értem teljes egészen
+Bűneim súlyát, ítéletét.
+Mit adok érte oda cserébe?
+Hűtlen az éjem, nappalom, könyörülj rajtam, Jézusom!
+
+Nem félig Tied a szívem, az életem,
+Nem félig, már nem csak félig!
+Szabaddá lettem, Te győztél bennem!
+Add, hogy csak Téged szolgáljalak!
+Dicső Királyom, szent neved áldom!
+Boldog az éjem, nappalom, betölti lényed, Jézusom!
+
+
+115#Ha reggel jókor felkelek
+
+Ha reggel jókor felkelek, s Uram szemébe nézhetek,
+Öröm fut át a szívemen, s a menny felé száll énekem.
+Ó, jöjj te is, nyisd meg szíved, Jézussal még ma köss frigyet!
+Nincs senki más, ki úgy szeret, halála lett az életed!
+
+Napközben is rá gondolok, ha fél szívem, hozzá futok.
+Felnézek rá vággyal tele, s betölti szívem Szelleme.
+Ó, jöjj te is, nyisd meg szíved, Jézussal még ma köss frigyet!
+Nincs senki más, ki úgy szeret, halála lett az életed!
+
+Ha este már elfáradok, az Ő szívén nyugton vagyok.
+Míg békessége van velem, hálám szavakba önthetem.
+Ó, jöjj te is, nyisd meg szíved, Jézussal még ma köss frigyet!
+Nincs senki más, ki úgy szeret, halála lett az életed!
+
+S ha ébredek vak éjjelen, sötétbe vész a két szemem,
+Ő akkor is reám tekint, s betölt a szent öröm megint.
+Ó, jöjj te is, nyisd meg szíved, Jézussal még ma köss frigyet!
+Nincs senki más, ki úgy szeret, halála lett az életed!
+
+
+116#Légy éber reggel
+Légy éber reggel, bár felhőtlen égbolt
+Vihartalan, csendes napot ígér!
+Kelhet vihar szívedben, mely a vándort
+Lesújtja, míg honába tér.
+Ó, szüntelen légy éberen,
+S imádkozzál, fiam!
+
+Légy éber délben, míg a földi zajban
+Az ég békéje feledésbe megy!
+Ó, lelj egy percet lenni egymagadban,
+Hogy ott kiöntsd a szívedet!
+Ó, szüntelen légy éberen,
+S imádkozzál, fiam!
+
+Légy éber este, míg csend száll a tájra,
+Keresd fel égi hű Barátodat!
+Úgy fáj a szíve, ha hiába várna,
+Ha jössz, kitárt karral fogad.
+Ó, szüntelen légy éberen,
+S imádkozzál, fiam!
+
+Légy éber, ó, napod bármerre fordul,
+Mert szüntelen vigyáz az ellen is,
+S a szentek szentjét elfoglalja orvul,
+Ha égő hittel telve nincs!
+Ó, szüntelen légy éberen,
+S imádkozzál, fiam!
+
+
+117#Rád tekint már hitem
+Rád tekint már hitem, Megváltóm, Istenem, a Golgotán.
+Haldd könyörgésemet, és vedd el vétkemet,
+Mostantól hadd legyek tiéd csupán!
+
+Szívemet töltse be kegyelmed ereje buzgósággal!
+Meghaltál érettem, add, szívem s életem
+Teérted éghessen forró lánggal!
+
+Ha elfog utamon félelem s fájdalom, fogd kezemet!
+Derítsd fel éjemet, szárítsd fel könnyemet,
+Tévelygésben ne hagyd én lelkemet!
+
+Éltem ha fogyva-fogy, és a halál, ahogy jön már felém:
+Megváltóm, ments Te meg kétségtől engemet,
+Nálad, hogy üdvömet meglássam én!
+
+
+118#Tégy foglyoddá, Uram
+
+Tégy foglyoddá, Uram, s akkor szabad leszek,
+Késztess megadnom önmagam, győzelmet úgy veszek!
+Ha küzdve küszködöm, akkor leroskadok,
+De ha karod lesz börtönöm, akkor erős vagyok.
+
+Szívem gyáván remeg, s úgy hajlik, mint a nád,
+Amíg benned nem lelte meg parancsoló Urát.
+Míg láncra nem vered, oly ingatag, sivár,
+Szerelmeddel kötözve meg, erős, mint sziklavár.
+
+Lelkem mindjárt alél, nincs benne tűz, se hit,
+Míg égi tűz nem száll belé s szolgálni nem tanít.
+Vezetni úgy tudok, ha Szentlelked vezet,
+Zászlóm fennen csak úgy lobog, ha fúj leheleted.
+
+Majd úgy uralkodik s nyer lelkem égi trónt,
+Ha néked hódol a porig, ha mindenről lemond.
+Vész és vihar között úgy áll végig híven,
+Ha kebleden jól kikötött, s mindvégig ott pihen.
+
+
+119#Lelki próbáimban
+
+Lelki próbáimban, Jézus, légy velem,
+El ne tántorodjék tőled életem!
+Félelem ha bánt vagy nyereség kísért,
+Tőled elszakadnom, ne hagyj semmiért!
+
+Ha a világ bája engem hívogat,
+Nagy csalárdul kínál hitványságokat,
+Szemem elé állítsd szenvedésedet,
+Vérrel koronázott szent keresztedet!
+
+Tisztogass bár bajjal olykor engemet,
+Kegyelmeddel szenteld szenvedésemet!
+Bár e test erőtlen, Te oltárodon
+Keserű pohárral, hittel áldozom.
+
+Ha halálra válik testem egykoron,
+Ragyogjon fel Lelked e hitvány poron!
+Ama végső harcon rád bízom magam,
+Örök hajlékodba fogadj be, Uram!
+
+
+120#Hogyne dicsérném az Istent
+
+Hogyne dicsérném az Istent zengedező énekkel,
+Ki dolgában oly bölcs, oly szent, és jót tesz mindenekkel!
+Ő minden áldások Atyja, csupa jóság, szeretet,
+Ki engem bölcsen vezet, és hű szívét hozzám hajtja.
+Minden elhagy, elfeled, Isten vég nélkül szeret!
+
+Mint ahogy a sas kicsinyét szárnyával betakarja,
+Engem is befedez, megvéd az Úr hatalmas karja.
+Már anyám méhétől kezdve, midőn életet adott,
+Áldását, mint harmatot reám bőven hintegette.
+Minden elhagy, elfeled, Isten vég nélkül szeret!
+
+Nem kímélte szent Fiát sem Ő nagy szeretetében,
+Kárhozatból, hogy kimentsen, odaadta énértem.
+Ó, nagy az Isten kegyelme, melynek csodás mélyére
+Bármint kutat, nem ér le az emberi véges elme.
+Minden elhagy, elfeled, Isten vég nélkül szeret!
+
+Lelke hűséges vezérem, kit mellém őrül adott,
+Míg örök hazám elérem, s itt hagyok bút, bánatot.
+Ki meggyújtja hitem lángját, s biztat, hogy éltem Atyja,
+Gyermekét el nem hagyja, s elveszi a sír fullánkját.
+Minden elhagy, elfeled, Isten vég nélkül szeret!
+
+Ha a szenvedés szememből fájó könnyeket fakaszt,
+Segedelmet küld a mennyből, s jókor elfordítja azt.
+Ború után az ég derül, a viharos, zord telet
+Felváltja a kikelet, s a hívő szív újra örül.
+Minden elhagy, elfeled, Isten vég nélkül szeret!
+
+Minden nap megújul rajtam, jó Atyám, szereteted.
+Hogyne zengne néked ajkam hálát és dicséretet!
+Csak Te vagy én boldogságom, hő imára két kezem,
+Ím, buzgón összeteszem, későn-korán hozzád vágyom,
+Míg ott fenn szól énekem megdicsőült nyelveken!
+
+
+121#A Bibliát ha felnyitod
+
+A Bibliát ha felnyitod, mily nagy csodát mutat neked!
+Megnyílik benne fenn az ég, s itt lenn a szíved és szemed.
+Urunk szava, Te, égi fény, ragyogj a nagyvilágon át,
+Míg üdvözül ezernyi nép, s nap űzi szét az éjszakát!
+
+E drága könyv tükör neked, megláthatod te szívedet;
+Oly szennyes az s oly elveszett, de Jézus által új lehet!
+Urunk szava, Te, égi fény, ragyogj a nagyvilágon át,
+Míg üdvözül ezernyi nép, s nap űzi szét az éjszakát!
+
+Az Úr szerelme benne szól, és zengve zúg Atyánk szava,
+Az elveszettnek így mutat napfényes utakat haza.
+Urunk szava, Te, égi fény, ragyogj a nagyvilágon át,
+Míg üdvözül ezernyi nép, s nap űzi szét az éjszakát!
+
+Elmondja a kereszthalál s feltámadás örömhírét,
+Mint vitte végbe Jézusunk, mit kezdettől Atyánk ígért.
+Urunk szava, Te, égi fény, ragyogj a nagyvilágon át,
+Míg üdvözül ezernyi nép, s nap űzi szét az éjszakát!
+
+Új élet magva szent Igénk, s e pusztán át a manna is,
+A lábunknak szövétneke, amíg utunk hazánkba visz.
+Urunk szava, Te, égi fény, ragyogj a nagyvilágon át,
+Míg üdvözül ezernyi nép, s nap űzi szét az éjszakát!
+
+
+122#Igéje szól, Igéje hív
+
+Igéje szól, Igéje hív,
+Szívünkben kétséget csöndesít.
+Kegyelme kész, áldása vár,
+Tárd ki a szíved, ó, tárd ki már!
+
+Igéje szól, Igéje hív,
+Urunkat követni megtanít.
+Kegyelme kész, áldása vár,
+Tárd ki a szíved, ó, tárd ki már!
+
+Igéje szól, Igéje hív,
+Nagy és szent munkára lelkesít.
+Kegyelme kész, áldása vár,
+Tárd ki a szíved, ó, tárd ki már!
+
+Igéje szól, Igéje hív,
+Mondjon hát hálát a száj s a szív!
+Kegyelme kész, áldása vár,
+Tárd ki a szíved, ó, tárd ki már!
+
+
+123#Ha lelkem az Úrban nyugodva pihen
+
+Ha lelkem az Úrban nyugodva pihen,
+Bár távol a vész fenyeget,
+Én boldogan egyre csak énekelem:
+„Uram, én szíveden pihenek!”
+Szíveden pihenek,
+Uram, én szíveden pihenek!
+
+Ha üldöz a Sátán s ijeszteni akar,
+Bíztatva az Úr szava kél.
+Szent vére, tudom, befedez, betakar,
+Menedék, menedék ez a vér!
+Szíveden pihenek,
+Uram, én szíveden pihenek!
+
+Az Úr maga hordta az én bűnömet,
+S a lelkem azóta szabad.
+Kereszten a vérével érte fizet,
+Ó, dicsérem ezért az Urat!
+Szíveden pihenek,
+Uram, én szíveden pihenek!
+
+Most érte, meg ővele élve csupán,
+Az úton Igéje vezet.
+Szent béke a részem a bánat után,
+Uram, én szíveden pihenek!
+Szíveden pihenek,
+Uram, én szíveden pihenek!
+
+
+124#Eldőlt a szívemben
+
+Eldőlt a szívemben: követem Jézust.
+Eldőlt a szívemben: követem Jézust.
+Eldőlt a szívemben: követem Jézust.
+Nincs visszaút, nincs visszaút!
+
+Ha nincs is társam itt, követem mégis Őt.
+Ha nincs is társam itt, követem Jézust.
+Ha nincs is társam itt, követem mégis Őt,
+Nincs visszaút, nincs visszaút!
+
+Mögöttem a világ, előttem a kereszt.
+Mögöttem a világ, előttem Jézus.
+Mögöttem a világ, előttem a kereszt.
+Nincs visszaút, nincs visszaút!
+
+
+125#A börtönömnek zárát
+
+A börtönömnek zárát az Úr nyitotta ki.
+A békességem árát az Úr fizette ki.
+Hadd zengjen hát az ének az Ő nagy, szent nevének,
+Dicsőség Őneki! Dicsőség Őneki!
+
+Kifogyni élet kútját az Úr nem engedi,
+A lábaimnak útját az Úr egyengeti.
+Hadd zengjen hát az ének az Ő nagy, szent nevének,
+Dicsőség Őneki! Dicsőség Őneki!
+
+Nincs szívem már a szennyben, az Úr emelte ki,
+Az én helyem a mennyben az Úr rendelte ki.
+Hadd zengjen hát az ének az Ő nagy, szent nevének,
+Dicsőség Őneki! Dicsőség Őneki!
+
+
+126#Áll a Krisztus szent keresztje
+
+Áll a Krisztus szent keresztje
+Elmúlás és rom felett.
+Krisztusban beteljesedve
+Látom üdvösségemet.
+
+Bánt a sok gond, űz a bánat,
+Tört remény, vagy félelem,
+Ő nem hagy el, biztat híven:
+Békesség van énvelem.
+
+Boldogságnak napja süt rám,
+Jóság, fény jár utamon.
+A keresztfa ragyogásán
+Fényesebb lesz szép napom.
+
+Áldássá lesz ott az átok,
+Megbékéltet a kereszt.
+El nem múló boldogságod,
+Békességed ott keresd!
+
+Áll a Krisztus szent keresztje,
+Elmúlás és rom felett.
+Krisztusban beteljesedve
+Látom üdvösségemet!
+
+
+127#Szólj, Uram, mert várok
+
+Szólj, Uram, mert várok! Várom szent szavad,
+Várom, hogy jelentsd meg Énnekem magad.
+
+Minden szó, mit mondasz, Kinccsel is felér,
+Éhező szívemnek Éltető kenyér.
+
+Szólj, tovább ne hallgass! Szolgád hallja jól,
+Lesve vágyva várja, Ajkad hogyha szól.
+
+Vágyom jól megértni Akaratodat,
+És betöltni híven Szent parancsodat.
+
+Hadd lehessen éltem, Mint a gyors patak,
+Melynek tiszta habja Kebledről fakad!
+
+Fáradt vándoroknak Szomját enyhítő,
+S tükrin a Te képed, Ó, Üdvözítő!
+
+
+128#Vágyom melletted élni
+
+Vágyom melletted élni, Jézus,
+Csendben veled beszélni, Jézus,
+Békét, üdvöt remélni, Jézus,
+Segíts, hogy úgy legyen!
+
+Vágyom utadon járni, Jézus,
+Érted csatába szállni, Jézus,
+Gyáván meg nem hátrálni, Jézus.
+Segíts, hogy úgy legyen!
+
+Vágyom jobbodnál állni, Jézus,
+Fénylő orcádat látni, Jézus,
+Téged örökké áldni, Jézus.
+Segíts, hogy úgy legyen!
+
+
+129#Mutasd meg, hadd lássam, ki vagy nekem
+
+Mutasd meg, hadd lássam, ki vagy nekem,
+Hogy Te vagy, Te maradsz az életem!
+Ne nézzek senkit, ne lássak mást,
+Csak Téged, Megváltóm, senki mást!
+
+Színtelen, fénytelen, üres edény,
+Ne legyek ennél több sohase én!
+Csak Te légy bennem a tartalom,
+Lényeddel Te tölts meg, Jézusom!
+
+Lennék bár eszköz és semmi egyéb,
+Felvegyék, ha kell, vagy félretegyék,
+Csak Te légy gazdám, én Jézusom,
+Országod szolgálni így tudom!
+
+Dicsőség tenéked, hű Jézusom!
+Mindennél többet adsz, tudván tudom.
+Megosztod vélem szent életed,
+Örökre légy enyém s én tied!
+
+
+130#Tiéd az ügy, ó Jézusunk
+
+Tiéd az ügy, ó Jézusunk, Hadd örvendjünk ennek!
+És mert tiéd, így bízhatunk, Soha el nem veszhet.
+De előbb a kis búzaszem A nap felé, hogy nőhessen,
+Magától, hogy szabad legyen, Meghal a mélybe’, főldbe’ lenn,
+Meghal ott lenn, Hogy így szabad legyen.
+
+Sok szenvedésen át, Urunk, Mentél a mennybe fel.
+Míg véled célhoz nem jutunk, Utadon járnunk kell.
+Legyen bár sorsunk szenvedés, Majd vár ránk véled égi rész.
+Vígy hát halálod által el A mennybe, dicső fénybe fel,
+Szerelmeddel, A fénybe, mennybe fel!
+Te meghaltál, mint búzaszem, Mit égi kéz vetett.
+
+Ó, kelts életre győztesen Bűnben holt lelkeket!
+Küldj sok hírmondót, hadd vigyék A hírt, az élet jó hírét!
+Ím, készen állunk Mesterünk, Te küldj el és Te légy velünk!
+Te légy velünk, Győzelmet így nyerünk!
+
+
+131#Jézus engem megtalált
+
+Jézus engem megtalált,
+Mindörökre hűn szeret,
+Tenni szent akaratát
+Lelke megtanít s vezet.
+Ó, mily boldog lettem így!
+Béke tölt el hű szívén,
+Mindörökre szól e frigy:
+Én övé és Ő enyém.
+
+Amióta ezt tudom,
+Fényesebb a napsugár,
+Zöldellő faágakon
+Szebben zeng a kismadár.
+Fű, virág mind úgy ragyog,
+Minden szebb a föld színén,
+És én oly boldog vagyok!
+Én övé és Ő enyém.
+
+Mitől egykor féltem én,
+Mint a köd tűnt mindaz el,
+Nyugszom Jézus kebelén,
+Védő karja átölel.
+Eltűnt gond és félelem,
+Sok teher vált semmivé,
+Jézusom jár most velem,
+Ő enyém és én övé.
+
+Mindörökre Ő enyém,
+Én övé örökre már.
+Mennyi áldás, szent remény,
+Mit az Úr előmbe tár!
+Múlna el bár föld s az ég,
+Válna éjre bár a fény,
+Akkor is megállna még:
+Én övé és Ő enyém!
+
+
+132#Tiéd, örökre
+
+Tiéd, örökre!
+Megváltva véreden,
+Megmosva általad,
+Tiéd szívem!
+
+Tiéd, örökre!
+Zúghatnak vad szelek,
+Benned rejtőzöm én,
+Mint gyermeked.
+
+Tiéd, örökre!
+Igéd erő s vigasz.
+Bánthat bú s félelem,
+Meggyógyítasz.
+
+Tiéd, örökre!
+Szívem már nem remeg,
+Mert bú s veszély között
+Hozzád megyek.
+
+Tiéd, örökre!
+S ha nyílik majd az ég,
+Ott fönn a trón előtt,
+Ott is tiéd!
+
+
+133#Uram, Te jól ismersz engem
+
+Uram, Te jól ismersz engem,
+Mindent jól lát a szemed,
+Valamit gondol a szívem,
+Te mindjárt észreveszed.
+Hála tölti be szívemet,
+Szeret az Úr, nagyon szeret!
+
+Uram, Te könyörülsz rajtam,
+Mert a Te irgalmad nagy;
+Ha szóra sem nyílik ajkam,
+Megértesz, mert Atyám vagy.
+Hála tölti be szívemet,
+Szeret az Úr, nagyon szeret!
+
+Uram, Te felemelsz engem,
+Amikor gyenge vagyok,
+Hitem is megújul bennem
+Olykor, ha meglankadok.
+Hála tölti be szívemet,
+Szeret az Úr, nagyon szeret!
+
+Uram, megváltottál engem,
+Értem is ömlött a vér,
+Jézus ott fenn a kereszten
+Meghalt a bűneimért.
+Hála tölti be szívemet,
+Szeret az Úr, nagyon szeret!
+
+Rád bízom magam egészen,
+Hű Uram, én Istenem,
+Örömben, bánatban, vészben
+Te légy nekem mindenem!
+Hála tölti be szívemet,
+Szeret az Úr, nagyon szeret!
+
+
+134#Mely igen jó az Úr Istent dicsérni
+
+Mely igen jó az Úr Istent dicsérni,
+Felségednek, ó Uram, énekelni,
+Szent nevedet dicsérvén magasztalni
+És mindenütt e világon hirdetni!
+
+Igen reggel irgalmadat hirdetni,
+Igazságodról éjjel gondolkodni,
+Hegedűvel, orgonával zengetni,
+Minden éneklő szerszámmal tisztelni!
+
+Csudaképpen én vigasztalást vészek,
+Cselekedetidre hogyha tekintek,
+Kezeidnek munkájában örvendek,
+Teremtőmnek, Megváltómnak éneklek.
+
+Az eszetlen ember ezt nem esméri,
+A hitetlen bolond ember nem érti;
+Kinek rólad nincs igaz esméreti:
+Szent Fiadban mert nincs hite őnéki.
+
+E világon gonoszok gyökereznek,
+Kik mindenkor hamisan cselekesznek;
+Mint a füvek, virágoznak, terjednek,
+Hogy örökül-örökké elvesszenek.
+
+Lám ezeket, Uram, felséges Isten,
+Kik támadnak a te szent igéd ellen,
+Viaskodnak a te híveid ellen:
+Megbünteted, mert vagy örök Úr Isten.
+
+Rólad, Uram, akik megemlékeznek,
+Mint a pálmafa, szintén úgy zöldellnek;
+Mint cédrusfák ugyan meggyökereznek
+Az igazak, kik igaz hitben élnek.
+
+Vallást tesznek minden emberek előtt,
+Hogy az Isten igaz mindenek fölött;
+Hamisságot soha nem cselekedett,
+Mint kőszikla, ő ád nagy erősséget.
+
+
+135#Ami szép volt, amit szeretek
+
+Ami szép volt, amit szeretek,
+Uram, én mindent leteszek.
+Nem nézek hátra, Uram, hanem Feléd,
+Tudom, minden kár és szemét.
+
+Ami jó volt, tervek, sikerek,
+Uram, én mindent leteszek.
+Nem nézek hátra, Uram, hanem Feléd,
+Tudom, minden kár és szemét.
+
+Ami rút volt, bűnök, örömek,
+Uram, én mindent leteszek.
+Nem nézek hátra, Uram, hanem Feléd,
+Tudom, minden kár és szemét.
+
+Uram, add meg Te, énnekem ezt,
+Hogy futhassak célegyenest!
+Ne nézzek hátra, Uram, hanem Feléd!
+Hiszen minden kár és szemét.
+
+
+136#Jézusból többet hadd vegyek
+
+Jézusból többet hadd vegyek,
+S másoknak többet hadd vigyek,
+Őt egyre jobban szemléljem,
+Váltsághalálát dicsérjem!
+Több, több mire vágyom,
+Több, több mire vágyom:
+Őt egyre jobban szemléljem,
+Váltsághalálát dicsérjem!
+
+Jézusról többet hadd tudjak,
+Tervéhez jobban simuljak!
+Szentlélek Isten, jöjj, taníts,
+Meglátni Krisztus titkait!
+Több, több mire vágyom,
+Több, több mire vágyom:
+Őt egyre jobban szemléljem,
+Váltsághalálát dicsérjem!
+
+Adhasson többet Igében,
+Járjak vele közösségben,
+Halljam a hangját szívemben,
+Éljem az Igét éltemben!
+Több, több mire vágyom,
+Több, több mire vágyom:
+Őt egyre jobban szemléljem,
+Váltsághalálát dicsérjem!
+
+Hallhassak többet trónjáról,
+Hol dicső népe országol!
+Visszajön Ő és nem késik,
+Országa nő, megáll végig.
+Több, több mire vágyom,
+Több, több mire vágyom:
+Őt egyre jobban szemléljem,
+Váltsághalálát dicsérjem!
+
+
+137#Áll a szikla mindörökké
+
+Áll a szikla mindörökké,
+Melyet Isten épített
+Fáradt szívem menhelyévé
+Zúgó hullámok felett.
+Ó, én szirtem, sziklaváram,
+Otthonom, mely oltalom!
+Menhelyem a pusztaságban,
+Én Megváltó Jézusom!
+
+Lábaimnál zúg a tenger,
+Zúg a szélvész rémesen,
+Én Krisztusra építem fel
+Szép reményem és hitem.
+Ó, én szirtem, sziklaváram,
+Otthonom, mely oltalom!
+Menhelyem a pusztaságban,
+Én Megváltó Jézusom!
+
+Hasztalan dühöng az orkán,
+Hasztalan nincs semmi fény,
+Éjben és viharba’ némán
+A hajnalra várok én.
+Ó, én szirtem, sziklaváram,
+Otthonom, mely oltalom!
+Menhelyem a pusztaságban,
+Én Megváltó Jézusom!
+
+Küzd erőd az árral egyre,
+Nincs sehol se’ menhelyed?
+Zaklatott szív, jöjj e szirtre,
+Mely megmentett engemet!
+Ó, én szirtem, sziklaváram,
+Otthonom, mely oltalom!
+Menhelyem a pusztaságban,
+Én Megváltó Jézusom!
+
+
+138#Imádkozzatok és buzgón kérjetek
+
+Imádkozzatok és buzgón kérjetek:
+Bűnös voltunkért, Uram, ó ne vess meg!
+Tiszta szívet és Szentlelket adj nékünk,
+Hallgass meg Fiad nevében, ha kérünk!
+
+„Keressetek buzgón és megtaláltok!”
+Téged keresünk, Uram, hogy bűn s átok
+Erőt ne vegyen mirajtunk. Légy nékünk
+Égi utunk, igazságunk, életünk!
+
+„Zörgessetek buzgón Isten ajtaján!”
+Elfáradtunk, Uram, e világ zaján.
+Ó, nyisd meg az égi béke szép honát,
+Add, hogy zenghessünk örök halleluját!
+
+
+139#Egyszerűen hitben élj
+
+Egyszerűen hitben élj!
+Vész ha jő, te mit se félj!
+Hogyha utad fénytelen,
+Jézus így szól: Higgy nekem!
+Hinni vágyom, hű Uram,
+Éltem itt míg elsuhan.
+Míg Sionba érkezem,
+Jézus mondja: Higgy nekem!
+
+Fáradt szívem feldobog,
+Lelked hogyha felragyog.
+Hű szerelmed védelem.
+Jézus mondja: Higgy nekem!
+Hinni vágyom, hű Uram,
+Éltem itt míg elsuhan.
+Míg Sionba érkezem,
+Jézus mondja: Higgy nekem!
+
+Napsugárban jár utam,
+Árnyvilágban is vígan,
+Nem riaszt a félelem,
+Jézus így szól: Higgy nekem!
+Hinni vágyom, hű Uram,
+Éltem itt míg elsuhan.
+Míg Sionba érkezem,
+Jézus mondja: Higgy nekem!
+
+Jóban-rosszban tart a hit,
+Tűrni, várni megtanít.
+Rá tekintek szüntelen,
+Jézus biztat: Higgy nekem!
+Hinni vágyom, hű Uram,
+Éltem itt míg elsuhan.
+Míg Sionba érkezem,
+Jézus mondja: Higgy nekem!
+
+
+140#Az üdv, mit Krisztus Jézus ad
+
+Az üdv, mit Krisztus Jézus ad,
+Örök, teljes, szabad,
+E szent örökséget, szívem,
+Fogadd el teljesen!
+
+Bízzál az Úr szavába’ hűn,
+Mert kételkedni bűn!
+Az Isten többet adni kész,
+Mint hinné emberész.
+
+Az Ige tisztán hirdeti,
+S az Úr hű, higgy neki,
+Hogy teljes váltságot hozott
+Megváltó Krisztusod!
+
+Váltsághalála, élete,
+Lelkének szent tüze,
+Művét mind benned végezi,
+Míg végbe nem viszi.
+
+Úr Jézus, szívem itt hozom,
+Tenéked áldozom.
+Benned teljes szívből hiszek,
+Rólad vallást teszek!
+
+
+141#Súlyos napokban csak Jézusra nézz
+
+Súlyos napokban csak Jézusra nézz,
+Mondd el neki bátran, ami nehéz!
+Mondd meg, hogy rábízol mindent híven!
+„Hisz te az enyém vagy” – szól szelíden.
+
+Tekints fel Jézusra, nyomor, ha nyom!
+Hatalmas Király Ő, gazdag nagyon.
+Rá nézz, ha gyötörnek búbánatok!
+Szelíden így szól majd: „Veled vagyok.”
+
+Tekints fel Jézusra, ha mély sebek
+Kínozzák, égetik a szívedet!
+Tud Ő vigasztalni, mint senki más,
+„Szeretlek” – hangzik majd a biztatás.
+
+Tekints Jézusra, Ő segítni kész!
+Emberre, magadra soha ne nézz!
+Jézusra tekintve fel szüntelen,
+Szelíden így szól Ő: „Számolj velem!”
+
+Tekints fel Jézusra s légy csendesen!
+Amint Ő akarja, csak úgy legyen!
+Nyomor és fájdalom, ha elpihent,
+Öröm és üdvösség vár odafent.
+
+
+142#Isten visz majd tovább
+
+Isten visz majd tovább, ne csüggedj hát!
+Hűséges Pásztorod védelmet ád.
+Biztos a kar, amely téged terel,
+Oly Isten Ő, ki rád gondot visel.
+Kézen fog Istened s féltőn vezet,
+Atyád Ő, s úgy szeret, mint gyermeket.
+Sziklára áll hitem s bátran felel:
+Van Istenünk, aki sosem hagy el!
+
+Isten visz majd tovább, szükség, ha jő,
+Melléd áll, míg veled fut az idő.
+Igénk megáll, ha mást elfúj a szél,
+Oly Isten Ő, aki örökre él.
+Kézen fog Istened s féltőn vezet,
+Atyád Ő, s úgy szeret, mint gyermeket.
+Sziklára áll hitem s bátran felel:
+Van Istenünk, aki sosem hagy el!
+
+
+143#Siessetek, hamar lejár
+
+Siessetek, hamar lejár!
+Kegyelme már régóta vár!
+Ma még lehet, ma még szabad,
+Borulj le a kereszt alatt!
+
+Ha elkésel, mi lesz veled?
+Hogy mented meg a lelkedet?
+Bezárul a kegyelmi út,
+Lelked örök halálba jut.
+
+Elszáll a perc, az életed,
+Ma még, ha jössz, elérheted.
+Ne késs tovább, ne várj tovább,
+Ma kérd Atyád bocsánatát!
+
+
+144#A Szentlelket ne űzzed el
+
+A Szentlelket ne űzzed el!
+Jézushoz hív, tudod te rég.
+Hív a világ, választnod kell,
+Mikor teszed, mért nem ma még?
+Miért nem ma, miért nem ma?
+Mikor teszed, miért nem ma?
+Miért nem ma, miért nem ma?
+Mikor teszed, miért nem ma?
+
+Mit nyújt tenéked a világ?
+Mindaz, mit adhat, semmiség.
+Üdv ajtaján siess be hát!
+Mikor teszed, mért nem ma még?
+Miért nem ma, miért nem ma?
+Mikor teszed, miért nem ma?
+Miért nem ma, miért nem ma?
+Mikor teszed, miért nem ma?
+
+Lásd, Jézus még ma elfogad.
+Követve Őt, tiéd az ég.
+Válaszd hát a keskeny utat!
+Mikor lépsz rá, mért nem ma még?
+Miért nem ma, miért nem ma?
+Mikor teszed, miért nem ma?
+Miért nem ma, miért nem ma?
+Mikor teszed, miért nem ma?
+
+
+145#Minden lépés, amit lépek
+
+Minden lépés, amit lépek, Minden munka, amit végzek,
+Minden öltés, melyet öltök, Minden fillér, mit elköltök,
+Hirdesse az Úr szerelmét, Dicsőítse nagy kegyelmét!
+Dicsőség az Istennek, Dicsőség az Istennek!
+
+Minden terhem, amit hordok, Minden szó, melyet kimondok,
+A munkában töltött óra, S az is, mely hív nyugovóra,
+Hirdesse az Úr szerelmét, Dicsőítse nagy kegyelmét!
+Dicsőség az Istennek, Dicsőség az Istennek!
+
+Keblem minden szívverése, Lelkem minden szenvedése,
+Az öröm, mit nyújt az élet, És a seb is, amely éget,
+Hirdesse az Úr szerelmét, Dicsőítse nagy kegyelmét!
+Dicsőség az Istennek, Dicsőség az Istennek!
+
+Építse bár ezrek lelkit Munkám, melyre Isten elhítt,
+Vagy áldást kis körre hintsen, S rá csak néhány szem tekintsen,
+Hirdesse az Úr szerelmét, Dicsőítse nagy kegyelmét!
+Dicsőség az Istennek, Dicsőség az Istennek!
+
+Majd ha szívem végsőt dobban, Tört szemem fénye kilobban,
+S rám borul a csöndes álom, Ne hirdessen mást halálom,
+Csak az Úrnak szent szerelmét, Dicsőségét, nagy kegyelmét!
+Dicsőség az Istennek, Dicsőség az Istennek!
+
+
+146#Halld, az ég harangi zengnek
+
+Halld, az ég harangi zengnek Messze földön szerteszét,
+Hírül adva mindeneknek Isten üdvüzenetét!
+Áldott Isten nagy kegyelme, Hogy leküldte szent Fiát,
+Benne higgy, s az élet Lelke Meggyőz benned sírt s halált.
+Szent harang, égi hang, Zendül szerte hangosan.
+Drága hír: Jézus él! S most kegyelme napja van.
+
+Jöjj, az ég harangi hívnak, Vár királyi lakoma!
+Vége itt nyomornak, kínnak, Bűnös elfér mind oda.
+Jöjjetek, ti fáradt lelkek, Jézusunk életkenyér,
+Higgyetek, s mindenre leltek, Jézus mindennel felér!
+Szent harang, égi hang, Zendül szerte hangosan.
+Drága hír: Jézus él! S most kegyelme napja van.
+
+Halld, az ég harangi intnek: Ó, siess, elkéshetel,
+Sátán tőre fog megint meg, Jöjj, hogy egy se vesszen el!
+Nézd, az ajtó még kitárva, Szűk, szoros felé az út,
+Hit, remény, szeretet vár ma, Kívül lelked vészbe jut.
+Szent harang, égi hang, Zendül szerte hangosan.
+Drága hír: Jézus él! S most kegyelme napja van.
+
+Halld, az ég harangi zúgnak, Már az ünnepév közel,
+Örülj, népe égi Úrnak, Mind az üdvözültekkel!
+A Király jön nemsokára, Légy kitartó kis sereg,
+Boldog lesz, ki homlokára A koronát nyerte meg!
+Szent harang, égi hang, Zendül szerte hangosan.
+Drága hír: Jézus él! S most kegyelme napja van.
+
+
+147#Jézus szolgálókat hív ma
+
+Jézus szolgálókat hív ma,
+Van üres hely még elég.
+Jöjjön mind, kinek szívében
+Szeretetnek lángja ég!
+Téged is vár ott a hely,
+Jézus szolgálatra hív.
+Megjelölte már helyed,
+Tálentumod egy vagy tíz.
+Engedelmes szolga légy,
+Életed add végre át!
+Téged is vár ott a hely,
+Bátran állj be hát!
+
+Nincs idő a veszteglésre,
+Szerte annyi lélek sír!
+Vidd közéjük Megváltónkat,
+Míg hangozhat még a hír!
+Téged is vár ott a hely,
+Jézus szolgálatra hív.
+Megjelölte már helyed,
+Tálentumod egy vagy tíz.
+Engedelmes szolga légy,
+Életed add végre át!
+Téged is vár ott a hely,
+Bátran állj be hát!
+
+Gyenge, méltatlan vagy, mondod.
+Ő a forrás, az erő.
+Lusta hírnök ne légy többé,
+Hadd tegyen helyedre Ő!
+Téged is vár ott a hely,
+Jézus szolgálatra hív.
+Megjelölte már helyed,
+Tálentumod egy vagy tíz.
+Engedelmes szolga légy,
+Életed add végre át!
+Téged is vár ott a hely,
+Bátran állj be hát!
+
+
+148#Jézus, Jézus! Ó mi szép név!
+
+Jézus, Jézus! Ó, mi szép név!
+Hogy hegeszti száz sebed!
+Hogy betölti szent örömmel
+Boldog, hívő szívedet!
+Ó, mi szép, hogyha cseng,
+Hogyha szíved róla zeng!
+Ó, mi szép, hogyha cseng,
+Hogyha szíved róla zeng!
+
+Föl hát, Szent nevében indulj!
+Ő, csak Ő a védelem,
+Véle minden ellenünkön
+Biztos lesz a győzelem.
+Ó, mi szép, hogyha cseng,
+Hogyha szíved róla zeng!
+Ó, mi szép, hogyha cseng,
+Hogyha szíved róla zeng!
+
+Jézus! Ó, mi drága név ez,
+Ó, mi boldog, ó, mi szép!
+Ó, hogy ujjong hallatára
+A megváltott földi nép!
+Ó, mi szép, hogyha cseng,
+Hogyha szíved róla zeng!
+Ó, mi szép, hogyha cseng,
+Hogyha szíved róla zeng!
+
+
+149#Krisztus hívása hangzik
+
+Krisztus hívása hangzik, Az Íge hogyha szól.
+E drága szóra szíved, Mondd, mért nem válaszol?
+Haragját érdemelnéd, S ő mégis esdekel.
+Ó, kőből van a szív, mely Szavára nem felel!
+Ó, kőből van a szív, mely Szavára nem felel.
+
+Gyengéden Ő keres meg, Ha bánat száll reád,
+Vagy hogyha vétkes múltért Szívedre hull a vád.
+Bűnöd magára vette, A múltért nem perel –
+Ó, kőből van a szív, mely Szavára nem felel!
+Ó, kőből van a szív, mely Szavára nem felel.
+
+Ha ingadozna lábad, Irányt mutathat Ő,
+Továbbsegít, ha csüggeszt Bizonytalan jövő.
+Sok földi célnál feljebb: A menny felé terel –
+Ó, kőből van a szív, mely Szavára nem felel!
+Ó, kőből van a szív, mely Szavára nem felel.
+
+Krisztus, a Szent, teérted Keresztet szenvedett,
+Az életét od’adta. Mondd, többet mit tehet?
+Most drága vére kérlel: Ne dobd az üdvöt el! –
+Ó, kőből van a szív, mely Szavára nem felel!
+Ó, kőből van a szív, mely Szavára nem felel.
+
+
+150#Miért, hogy Ő?
+
+Miért, hogy Ő, kit angyalének dicsért,
+Költötte ránk szerelme kincseit?
+Vagy mint a pásztor, elveszett után járt,
+Elmémmel fel nem foghatom, miért?
+De azt tudom, hogy Máriától származott,
+Hogy Betlehemben jászolágya volt,
+Hogy Názáretben élt és ott volt otthona.
+Ím, így jött el Ő, a világ Megváltója.
+
+Nem érthetem, miért szenvedett némán.
+Békéje fénylik Golgota hegyén.
+Szíve miért szakadt meg a kereszten,
+Tövisből mért kapott ott koronát?
+De azt tudom, hogy megtört szívek orvosa,
+Bűn, félelem tüzét megoltja Ő,
+Megterhelt lélek láncait leoldja,
+Ezért jött el Ő, a világ Megváltója.
+
+Miképpen hódolnak előtte népek,
+Hogy kormányozza földi birtokát,
+Kelet-nyugatnak, bűnösnek s a bölcsnek
+Szomját hogy oltja, meg nem mondhatom.
+De azt tudom, hogy dicsősége felragyog,
+Hogy amit Ő vet, Ő aratja majd.
+Győzelme napja nem sokáig várat,
+Megismerik Őt, a világ Megváltóját.
+
+Miképpen áldja Őt magát majd a föld,
+Ha egy szaván a béke lesz az úr,
+Vagy sejted-é az ujjongásnak árját,
+Ha minden szívet lénye majd betölt?
+De azt tudom, hogy angyalének ujjong,
+Megváltott lelkek hangja zengi Őt,
+Az ég a földnek, föld az égnek mondja:
+Végre Király Ő, a világ Megváltója!
+
+
+151#Ó, forrongó, gazdag árja
+
+Ó, forrongó, gazdag árja Megváltóm szerelminek!
+E rohanó, gazdag árba Elmerülök és hiszek.
+Jézusom, Isten Báránya, Áldozatod rám is áll,
+Eltakar kegyelmed árja, S rám a szentek szentje vár.
+
+Harsogó hullámverése Zúgjon e világon át,
+Hogy a mindenség megértse A kereszt hívószavát!
+Jézusom, Isten Báránya, Áldozatod rám is áll,
+Eltakar kegyelmed árja, S rám a szentek szentje vár.
+
+Ó, hogy minden bűnös lelket, Kit megvettél véreden,
+Győzhetetlen, nagy szerelmed Vissza, Atyjához vigyen!
+Jézusom, Isten Báránya, Áldozatod rám is áll,
+Eltakar kegyelmed árja, S rám a szentek szentje vár.
+
+
+152#Szólj, szólj hozzám Uram
+
+Szólj, szólj hozzám Uram, Mert szolgád hallja szódat,
+Mint szóltál eddig is, Kegyelmedből nekem!
+Hadd járjak utadon, Hadd várjam égi jódat,
+Hű szívvel szüntelen, Hű szívvel szüntelen!
+
+Adj Lelkedből erőt, Hogy értsem és szeressem
+Elrendelt utamat S minden parancsodat!
+Egy vágyat adj nekem: Hogy halljam és kövessem
+Szent igazságodat! Szent igazságodat!
+
+Nincs oly tudós sehol, Ki megtanít utadra,
+A bölcs nem fejti meg Törvényedet sosem,
+Te fejted meg nekünk, Te, hű szíveknek Atyja,
+Kinek szavát lesem. Kinek szavát lesem.
+
+Te nagy csodáidról, Bár fennszóval beszélnek,
+És fennen hirdetik Felséges rendedet,
+Ha nem Te szólsz, Uram, A szó fülig ha érhet,
+De szívig nem mehet! De szívig nem mehet!
+
+Szólj, és csitítsd a bút, Mert bú és kín gyötörnek,
+Szólj, hogy legyen szavad Ír s gyógyító erő!
+Szólj, dicsőséged úgy Még szebben tündökölhet,
+És mindörökre nő! És mindörökre nő!
+
+
+153#Nincs helyed Jézus számára?
+
+Nincs helyed Jézus számára?
+Megváltód Ő s úgy szeret!
+Halld, kopogtat kívül állva,
+Megnyitod-e szívedet?
+Add magad neki egészen,
+Tárd ki bátran szívedet!
+Ó, ne bocsásd el, testvérem,
+Fogadd be s minden tied!
+
+Nincs időd az Úr számára?
+Lásd, az ajtó előtt áll!
+Használd fel a drága percet,
+Holnap késő lehet már!
+Add magad neki egészen,
+Tárd ki bátran szívedet!
+Ó, ne bocsásd el, testvérem,
+Fogadd be s minden tied!
+
+Földi vággyal telve szíved,
+Jézus nem kap ott helyet.
+Mért bocsátod el magadtól
+Őt, ki érted szenvedett?
+Add magad neki egészen,
+Tárd ki bátran szívedet!
+Ó, ne bocsásd el, testvérem,
+Fogadd be s minden tied!
+
+Még ma add a szíved néki,
+Lásd, időd hamar lejár!
+Gyorsan jő a végső óra,
+S akkor rád ítélet vár!
+Add magad neki egészen,
+Tárd ki bátran szívedet!
+Ó, ne bocsásd el, testvérem,
+Fogadd be s minden tied!
+
+
+154#Semmim se’ lenne
+
+Semmim se’ lenne magamtól nekem,
+Isten kezéből van új életem.
+Fenn hirdetem, bár érdemtelen:
+Reám lelt az ingyen kegyelem.
+Isten kegyelme rám talált,
+Isten kegyelme rám talált.
+Zengj, hálaének, az Ő szent nevének,
+Hogy Isten kegyelme rám talált!
+
+Voltam szegény, bűnben elsüllyedett,
+Isten szívétől oly távol vetett.
+Jött Jézusom s megfogta kezem,
+Reám lelt az ingyen kegyelem.
+Isten kegyelme rám talált,
+Isten kegyelme rám talált.
+Zengj, hálaének, az Ő szent nevének,
+Hogy Isten kegyelme rám talált!
+
+Nem könnyeimmel szereztem meg azt,
+Irgalma adta az égi vigaszt.
+Bűn terhe nyomta bár életem,
+Reám lelt az ingyen kegyelem.
+Isten kegyelme rám talált,
+Isten kegyelme rám talált.
+Zengj, hálaének, az Ő szent nevének,
+Hogy Isten kegyelme rám talált!
+
+Hadd mondanom, míg szemem rád ragyog:
+Túlárad a szívem, boldog vagyok!
+Mind e világon fenn hirdetem:
+Reám lelt az ingyen kegyelem.
+Isten kegyelme rám talált,
+Isten kegyelme rám talált.
+Zengj, hálaének, az Ő szent nevének,
+Hogy Isten kegyelme rám talált!
+
+
+155#Égi harsonák
+
+Égi harsonák ha zengenek, nem lesz idő se már,
+Mert az Úr lesz ott örökre nap helyett,
+És ki üdvbe öltözött, az akkor mind előtte áll,
+Őt dicsérve, köztük én is ott leszek!
+Ha az Úr nevem kiáltja, Mikor hív a harsonája,
+Ha az Úr nevem kiáltja, Hű kegyelme által én is ott leszek!
+
+Várva várt Urunk ha megjelen, feltámad az, ki hitt,
+Mind, ki hű maradt, ki néki engedett,
+Látja érte eljövő Urát, amint az ég kinyílt.
+Őt dicsérve, köztük én is ott leszek!
+Ha az Úr nevem kiáltja, Mikor hív a harsonája,
+Ha az Úr nevem kiáltja, Hű kegyelme által én is ott leszek!
+
+Míg a nap ragyog s nem int az est, a munka égjen itt,
+Hogy szerelme hű, dicsérje szó s a tett!
+És időnk mikor lejárt s a munka már betöltve, mind
+Ott legyünk, elébe elragadva fent!
+Ha az Úr nevem kiáltja, Mikor hív a harsonája,
+Ha az Úr nevem kiáltja, Hű kegyelme által én is ott leszek!
+
+
+156#Ki vagyok én?
+
+Ki vagyok én, ki vagyok én,
+Kinek lát engem az Isten?
+Sok bűnömért, vétkeimért,
+Elítél engem az Isten.
+Veszendő utolsó bűnös vagyok,
+Szívemben sötétség, kívül bajok,
+Ha nem jön segítség, elpusztulok.
+
+Valaki hív, valaki vár,
+Valaki hívogat engem.
+Sok bűnömért, vétkeimért
+Valaki szenvedett értem.
+Megváltó Úr Jézus befogadtál,
+Azért, mert szerettél, megváltottál.
+Újjá lett életem parancsra vár.

@@ -6,12 +6,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.dave.onisong.SongActivity"
+    android:keepScreenOn="true"
     android:id="@+id/songlinear">
     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fillViewport="true"
         android:scrollbars = "vertical"
+        android:id="@+id/scrollview"
         >
         <TableLayout
             android:layout_width="fill_parent"

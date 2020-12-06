@@ -1,10 +1,12 @@
 package com.example.dave.onisong;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.ActionBar;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
@@ -21,12 +23,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.dave.onisong.song.Song;
 import com.example.dave.onisong.song.SongParser;
 import com.example.dave.onisong.song.TableOfContents;
-import com.google.android.gms.appindexing.Action;
-import com.google.android.gms.appindexing.AppIndex;
-import com.google.android.gms.appindexing.Thing;
-import com.google.android.gms.common.api.GoogleApiClient;
+
 
 import java.io.IOException;
 
@@ -35,21 +35,16 @@ public class SongListActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private SongAdapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
-    private GoogleApiClient client;
+    public boolean isActive = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        SongApp app = (SongApp)this.getApplicationContext();
+        app.setSongListActivity(this);
         if(TableOfContents.getInstance().size() == 0){
-            int num = SongParser.parseSongFile(this);
-            //Toast.makeText(this,num+" db ének betöltve",Toast.LENGTH_SHORT).show();
+            SongParser.parseSongFile(this);
         }
-
 
         setContentView(R.layout.activity_song_list);
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
@@ -65,11 +60,6 @@ public class SongListActivity extends AppCompatActivity {
         // specify an adapter (see also next example)
         mAdapter = new SongAdapter(this,mRecyclerView);
         mRecyclerView.setAdapter(mAdapter);
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
-
 
         final TextView search = (TextView) findViewById(R.id.searchsongtext);
         search.setVisibility(View.INVISIBLE);
@@ -96,7 +86,6 @@ public class SongListActivity extends AppCompatActivity {
             }
         });
 
-
         search.addTextChangedListener(new TextWatcher() {
             public void afterTextChanged(Editable s) {
                 mAdapter.setSearchResult(search.getText().toString());
@@ -109,9 +98,7 @@ public class SongListActivity extends AppCompatActivity {
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 // TODO Auto-generated method stub
             }
-
         });
-
     }
 
 
@@ -125,62 +112,59 @@ public class SongListActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+    int easterEggNum = 10;
+    Toast lastToast;
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Take appropriate action for each action item click
         switch (item.getItemId()) {
-            /*
+
             case R.id.action_settings:
-                changeView(SettingsActivity.class);
-            */
+                easterEggNum--;
+                if(easterEggNum == 0){
+                    if(lastToast != null && lastToast.getView().getWindowVisibility() == View.VISIBLE){
+                        lastToast.cancel();
+                    }
+                    Toast.makeText(SongListActivity.this, "\"Mert ahol a kincsed van, ott lesz a szíved is\" Mt 6,21", Toast.LENGTH_LONG).show();
+                    easterEggNum = 10;
+                    return false;
+                }
+                if(easterEggNum < 5){
+
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            if(lastToast != null && lastToast.getView().getWindowVisibility() == View.VISIBLE){
+                                lastToast.cancel();
+                            }
+                            lastToast = Toast.makeText(SongListActivity.this, "Még "+easterEggNum+" kattintás", Toast.LENGTH_SHORT);
+                            lastToast.show();
+                        }
+                    });
+                }
+
             default:
                 return super.onOptionsItemSelected(item);
         }
     }
 
-    public void changeView(Class c) {
-        Intent myIntent = new Intent(this, c);
-        this.startActivity(myIntent);
-    }
 
 
-
-
-
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
-    public Action getIndexApiAction() {
-        Thing object = new Thing.Builder()
-                .setName("Énekek") // TODO: Define a title for the content shown.
-                // TODO: Make sure this auto-generated URL is correct.
-                .setUrl(Uri.parse("http://[ENTER-YOUR-URL-HERE]"))
-                .build();
-        return new Action.Builder(Action.TYPE_VIEW)
-                .setObject(object)
-                .setActionStatus(Action.STATUS_TYPE_COMPLETED)
-                .build();
+    @Override
+    public void onResume() {
+        super.onResume();
+        isActive = true;
+        SongApp app = (SongApp)this.getApplicationContext();
+        if(app.isNewSongLoaded()){
+            this.newSongList();
+            app.newSongLoadHandled();
+        }
     }
 
     @Override
-    public void onStart() {
-        super.onStart();
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client.connect();
-        AppIndex.AppIndexApi.start(client, getIndexApiAction());
-    }
-
-    @Override
-    public void onStop() {
-        super.onStop();
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        AppIndex.AppIndexApi.end(client, getIndexApiAction());
-        client.disconnect();
+    public void onPause() {
+        super.onPause();
+        isActive = false;
     }
 
     @Override
@@ -189,5 +173,32 @@ public class SongListActivity extends AppCompatActivity {
         intent.addCategory(Intent.CATEGORY_HOME);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
+    }
+
+    public void newSongList(){
+        runOnUiThread(new Runnable() {
+            public void run() {
+            AlertDialog.Builder builder = new AlertDialog.Builder(SongListActivity.this);
+            builder.setMessage("Az énekeskönyv frissült, kívánja betölteni az új énekeket?")
+                    .setCancelable(false)
+                    .setPositiveButton("Igen", new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int id) {
+                            TableOfContents.getInstance().reset();
+                            SongParser.parseSongFile(SongListActivity.this);
+                            mAdapter.notifyDataSetChanged();
+
+                            Toast.makeText(SongListActivity.this,"Sikeres frissítés",Toast.LENGTH_SHORT).show();
+                        }
+                    })
+                    .setNegativeButton("Nem", new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int id) {
+                            dialog.cancel();
+                        }
+                    });
+            AlertDialog alert = builder.create();
+            alert.show();
+            }
+        });
+
     }
 }
